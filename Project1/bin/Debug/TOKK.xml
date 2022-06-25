@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parametrs>
+  <variable name="Вн. Пер.1">
+    <type>Внутр. переменная</type>
+    <value>23</value>
+  </variable>
+  <variable name="ВП2">
+    <type>Внутр. переменная</type>
+    <value>15</value>
+  </variable>
+</parametrs>

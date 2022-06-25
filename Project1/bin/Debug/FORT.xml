@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parametrs>
+  <signal name="Первый ТИ">
+    <id>1</id>
+    <value>1</value>
+    <peredacha reglament="Циклическая">
+      <time>1</time>
+    </peredacha>
+  </signal>
+  <signal name="Второй ТИ">
+    <id>2</id>
+    <value>102</value>
+    <peredacha reglament="По изменению" />
+  </signal>
+  <signal name="Третий ТИ">
+    <id>3</id>
+    <value>3</value>
+    <peredacha reglament="Циклическая">
+      <time>3</time>
+    </peredacha>
+  </signal>
+  <signal name="Четвёртый ТИ">
+    <id>4</id>
+    <value>4</value>
+    <peredacha reglament="Циклическая">
+      <time>4</time>
+    </peredacha>
+  </signal>
+  <signal name="Пятый ТИ">
+    <id>5</id>
+    <value>5</value>
+    <peredacha reglament="Циклическая">
+      <time>5</time>
+    </peredacha>
+  </signal>
+  <signal name="TII6">
+    <id>6</id>
+    <value>106</value>
+    <peredacha reglament="По расписанию">
+      <raspisanie time="12:23:31.005" date="07.10.1212" No="1" />
+      <raspisanie time="12:23:31.004" date="01.11.1212" No="2" />
+      <raspisanie time="12:23:31.005" date="01.11.1212" No="3" />
+      <raspisanie time="12:23:31.005" date="05.12.1212" No="4" />
+      <raspisanie time="12:23:34.005" date="12.12.1212" No="5" />
+    </peredacha>
+  </signal>
+  <signal name="7">
+    <id>7</id>
+    <value>7</value>
+    <peredacha reglament="Циклическая">
+      <time>7</time>
+    </peredacha>
+  </signal>
+</parametrs>

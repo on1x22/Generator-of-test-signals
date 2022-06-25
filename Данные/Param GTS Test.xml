@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parametrs>
+  <signal name="ТС 179" type="ТC" id="179" value="1" code="0x10">
+    <peredacha kind="По изменению" prop="0.1" />
+  </signal>
+  <signal name="ТС 180" type="ТC" id="180" value="1" code="0x100">
+    <peredacha kind="По изменению" prop="3" />
+  </signal>
+  <signal name="ТС 181" type="ТС" id="181" value="1" code="0x800">
+    <peredacha kind="По изменению" prop="4" />
+  </signal>
+  <signal name="ТИ 592" type="ТИ" id="592" value="10.5" code="0x100">
+    <peredacha kind="По изменению" prop="2" />
+  </signal>
+  <signal name="ТИ 593" type="ТИ" id="593" value="6" code="0x40">
+    <peredacha kind="По изменению" prop="0.01" />
+  </signal>
+  <signal name="ТИ 594" type="ТИ" id="594" value="7" code="0x40">
+    <peredacha kind="Циклическая" prop="1" />
+  </signal>
+  <signal name="ТИ 595" type="ТИ" id="595" value="4.5" code="0x40">
+    <peredacha kind="Циклическая" prop="1" />
+  </signal>
+</parametrs>

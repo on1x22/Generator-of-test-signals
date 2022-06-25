@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parametrs>
+  <signal name="ТИ6">
+    <id>006</id>
+    <value>37</value>
+    <peredacha reglament="Циклическая">
+      <time>0.3</time>
+    </peredacha>
+  </signal>
+  <signal name="ТИ20">
+    <id>020</id>
+    <value>79</value>
+    <peredacha reglament="Циклическая">
+      <time>5</time>
+    </peredacha>
+  </signal>
+  <signal name="ТИРОЛЬ">
+    <id>324</id>
+    <value>23</value>
+    <peredacha reglament="По расписанию">
+      <raspisanie No="1" time="10:23:15" />
+      <raspisanie No="2" time="17:23:15" />
+    </peredacha>
+  </signal>
+  <signal name="рапп">
+    <id>34</id>
+    <value>78</value>
+    <peredacha reglament="По расписанию">
+      <raspisanie No="1" time="04:04:04" />
+    </peredacha>
+  </signal>
+</parametrs>

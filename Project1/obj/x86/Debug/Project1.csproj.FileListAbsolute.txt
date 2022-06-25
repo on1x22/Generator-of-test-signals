@@ -1,0 +1,291 @@
+C:\Users\user\AppData\Local\Temporary Projects\Project1\bin\Debug\Project1.exe
+C:\Users\user\AppData\Local\Temporary Projects\Project1\bin\Debug\Project1.pdb
+C:\Users\user\AppData\Local\Temporary Projects\Project1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\AppData\Local\Temporary Projects\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\user\AppData\Local\Temporary Projects\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\Project1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\AppData\Local\Temporary Projects\Project1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\AppData\Local\Temporary Projects\Project1\obj\x86\Debug\Project1.exe
+C:\Users\user\AppData\Local\Temporary Projects\Project1\obj\x86\Debug\Project1.pdb
+C:\Users\user\Desktop\Обучение C#\Project1\Project1\obj\x86\Debug\Project1.exe
+C:\Users\user\Desktop\Обучение C#\Project1\Project1\obj\x86\Debug\Project1.pdb
+C:\Users\user\Desktop\Обучение C#\Project1\Project1\bin\Debug\Project1.exe
+C:\Users\user\Desktop\Обучение C#\Project1\Project1\bin\Debug\Project1.pdb
+C:\Users\user\Desktop\Обучение C#\Project1\Project1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Обучение C#\Project1\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\user\Desktop\Обучение C#\Project1\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+C:\Users\user\Desktop\Обучение C#\Project1\Project1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Desktop\Обучение C#\Project1\Project1\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\Для учёбы\Диплом\Обучение C#\Project1\Project1\obj\x86\Debug\Project1.exe
+I:\Для учёбы\Диплом\Обучение C#\Project1\Project1\obj\x86\Debug\Project1.pdb
+G:\Для учёбы\Диплом\Обучение C#\Project1\Project1\obj\x86\Debug\Project1.exe
+G:\Для учёбы\Диплом\Обучение C#\Project1\Project1\obj\x86\Debug\Project1.pdb
+G:\Для учёбы\Диплом\Обучение C#\Project1\Project1\bin\Debug\Project1.exe
+G:\Для учёбы\Диплом\Обучение C#\Project1\Project1\bin\Debug\Project1.pdb
+G:\Для учёбы\Диплом\Обучение C#\Project1\Project1\obj\x86\Debug\Project1.GTS.resources
+G:\Для учёбы\Диплом\Обучение C#\Project1\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+G:\Для учёбы\Диплом\Обучение C#\Project1\Project1\obj\x86\Debug\Project1.csproj.GenerateResource.Cache
+G:\Для учёбы\Диплом\Обучение C#\Project1\Project1\obj\x86\Debug\Project1.csprojResolveAssemblyReference.cache
+I:\Для учёбы\Диплом\Обучение C#\Project1\Project1\bin\Debug\Project1.exe
+I:\Для учёбы\Диплом\Обучение C#\Project1\Project1\bin\Debug\Project1.pdb
+I:\Для учёбы\Диплом\Обучение C#\Project1\Project1\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Для учёбы\Диплом\Обучение C#\Project1\Project1\obj\x86\Debug\Project1.GTS.resources
+I:\Для учёбы\Диплом\Обучение C#\Project1\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+I:\Для учёбы\Диплом\Обучение C#\Project1\Project1\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\Для учёбы\Диплом\Обучение C#\Project1\Project1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\oikUser\Desktop\Project1\Project1\obj\x86\Debug\Project1.exe
+C:\Users\oikUser\Desktop\Project1\Project1\obj\x86\Debug\Project1.pdb
+C:\Users\oikUser\Desktop\Project1\Project1\bin\Debug\Project1.exe
+C:\Users\oikUser\Desktop\Project1\Project1\bin\Debug\Project1.pdb
+C:\Users\oikUser\Desktop\Project1\Project1\obj\x86\Debug\Project1.csprojResolveAssemblyReference.cache
+C:\Users\oikUser\Desktop\Project1\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikUser\Desktop\Project1\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+C:\Users\oikUser\Desktop\Project1\Project1\obj\x86\Debug\Project1.csproj.GenerateResource.Cache
+G:\Для учёбы\Диплом\Обучение C#\Старые версии\Project1 v0.004\Project1\obj\x86\Debug\Project1.exe
+G:\Для учёбы\Диплом\Обучение C#\Старые версии\Project1 v0.004\Project1\obj\x86\Debug\Project1.pdb
+G:\Для учёбы\Диплом\Обучение C#\Старые версии\Project1 v0.004\Project1\bin\Debug\Project1.exe
+G:\Для учёбы\Диплом\Обучение C#\Старые версии\Project1 v0.004\Project1\bin\Debug\Project1.pdb
+G:\Для учёбы\Диплом\Обучение C#\Старые версии\Project1 v0.004\Project1\obj\x86\Debug\Project1.csprojResolveAssemblyReference.cache
+G:\Для учёбы\Диплом\Обучение C#\Старые версии\Project1 v0.004\Project1\obj\x86\Debug\Project1.GTS.resources
+G:\Для учёбы\Диплом\Обучение C#\Старые версии\Project1 v0.004\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+G:\Для учёбы\Диплом\Обучение C#\Старые версии\Project1 v0.004\Project1\obj\x86\Debug\Project1.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Обучение C#\Project1\Project1\obj\x86\Debug\Project1.Raspisanie.resources
+C:\Users\user\Desktop\Обучение C#\Project1 v0.005\Project1\obj\x86\Debug\Project1.exe
+C:\Users\user\Desktop\Обучение C#\Project1 v0.005\Project1\obj\x86\Debug\Project1.pdb
+C:\Users\user\Desktop\Обучение C#\Project1 v0.005\Project1\bin\Debug\Project1.exe
+C:\Users\user\Desktop\Обучение C#\Project1 v0.005\Project1\bin\Debug\Project1.pdb
+C:\Users\user\Desktop\Обучение C#\Project1 v0.005\Project1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Обучение C#\Project1 v0.005\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\user\Desktop\Обучение C#\Project1 v0.005\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+C:\Users\user\Desktop\Обучение C#\Project1 v0.005\Project1\obj\x86\Debug\Project1.Raspisanie.resources
+C:\Users\user\Desktop\Обучение C#\Project1 v0.005\Project1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Desktop\Обучение C#\Project1 v0.005\Project1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\oikUser\Desktop\Project1 v0.005\Project1\obj\x86\Debug\Project1.exe
+C:\Users\oikUser\Desktop\Project1 v0.005\Project1\obj\x86\Debug\Project1.pdb
+C:\Users\oikUser\Desktop\Project1 v0.005\Project1\bin\Debug\Project1.exe
+C:\Users\oikUser\Desktop\Project1 v0.005\Project1\bin\Debug\Project1.pdb
+C:\Users\oikUser\Desktop\Project1 v0.005\Project1\obj\x86\Debug\Project1.csprojResolveAssemblyReference.cache
+C:\Users\oikUser\Desktop\Project1 v0.005\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikUser\Desktop\Project1 v0.005\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+C:\Users\oikUser\Desktop\Project1 v0.005\Project1\obj\x86\Debug\Project1.Raspisanie.resources
+C:\Users\oikUser\Desktop\Project1 v0.005\Project1\obj\x86\Debug\Project1.csproj.GenerateResource.Cache
+G:\Для учёбы\Диплом\Обучение C#\Project1 v0.006\Project1\obj\x86\Debug\Project1.exe
+G:\Для учёбы\Диплом\Обучение C#\Project1 v0.006\Project1\obj\x86\Debug\Project1.pdb
+C:\Users\oikUser\Desktop\Project1 v0.006\Project1\obj\x86\Debug\Project1.exe
+C:\Users\oikUser\Desktop\Project1 v0.006\Project1\obj\x86\Debug\Project1.pdb
+C:\Users\oikUser\Desktop\Project1 v0.006\Project1\bin\Debug\Project1.exe
+C:\Users\oikUser\Desktop\Project1 v0.006\Project1\bin\Debug\Project1.pdb
+C:\Users\oikUser\Desktop\Project1 v0.006\Project1\obj\x86\Debug\Project1.csprojResolveAssemblyReference.cache
+C:\Users\oikUser\Desktop\Project1 v0.006\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikUser\Desktop\Project1 v0.006\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+C:\Users\oikUser\Desktop\Project1 v0.006\Project1\obj\x86\Debug\Project1.Raspisanie.resources
+C:\Users\oikUser\Desktop\Project1 v0.006\Project1\obj\x86\Debug\Project1.csproj.GenerateResource.Cache
+C:\Users\oikUser\Desktop\Project1 v0.007\Project1\obj\x86\Debug\Project1.exe
+C:\Users\oikUser\Desktop\Project1 v0.007\Project1\obj\x86\Debug\Project1.pdb
+C:\Users\oikUser\Desktop\Project1 v0.007\Project1\bin\Debug\Project1.exe
+C:\Users\oikUser\Desktop\Project1 v0.007\Project1\bin\Debug\Project1.pdb
+C:\Users\oikUser\Desktop\Project1 v0.007\Project1\obj\x86\Debug\Project1.csprojResolveAssemblyReference.cache
+C:\Users\oikUser\Desktop\Project1 v0.007\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikUser\Desktop\Project1 v0.007\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+C:\Users\oikUser\Desktop\Project1 v0.007\Project1\obj\x86\Debug\Project1.Raspisanie.resources
+C:\Users\oikUser\Desktop\Project1 v0.007\Project1\obj\x86\Debug\Project1.csproj.GenerateResource.Cache
+Z:\папки студентов\Алехин\Семестр 2\Project1 v0.007\Project1\obj\x86\Debug\Project1.exe
+Z:\папки студентов\Алехин\Семестр 2\Project1 v0.007\Project1\obj\x86\Debug\Project1.pdb
+Z:\папки студентов\Алехин\Семестр 2\Project1 v0.007\Project1\bin\Debug\Project1.exe
+Z:\папки студентов\Алехин\Семестр 2\Project1 v0.007\Project1\bin\Debug\Project1.pdb
+Z:\папки студентов\Алехин\Семестр 2\Project1 v0.007\Project1\obj\x86\Debug\Project1.csprojResolveAssemblyReference.cache
+Z:\папки студентов\Алехин\Семестр 2\Project1 v0.007\Project1\obj\x86\Debug\Project1.GTS.resources
+Z:\папки студентов\Алехин\Семестр 2\Project1 v0.007\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+Z:\папки студентов\Алехин\Семестр 2\Project1 v0.007\Project1\obj\x86\Debug\Project1.Raspisanie.resources
+Z:\папки студентов\Алехин\Семестр 2\Project1 v0.007\Project1\obj\x86\Debug\Project1.csproj.GenerateResource.Cache
+Z:\папки студентов\Алехин\Семестр 2\Project1 v0.007\Project1\obj\x86\Debug\Project1.Создание_сигнала.resources
+C:\Users\oikUser\Desktop\Project1 v0.008\Project1\obj\x86\Debug\Project1.exe
+C:\Users\oikUser\Desktop\Project1 v0.008\Project1\obj\x86\Debug\Project1.pdb
+C:\Users\oikUser\Desktop\Project1 v0.008\Project1\obj\x86\Debug\Project1.csprojResolveAssemblyReference.cache
+C:\Users\oikUser\Desktop\Project1 v0.008\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikUser\Desktop\Project1 v0.008\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+C:\Users\oikUser\Desktop\Project1 v0.008\Project1\obj\x86\Debug\Project1.Raspisanie.resources
+C:\Users\oikUser\Desktop\Project1 v0.008\Project1\obj\x86\Debug\Project1.Создание_сигнала.resources
+C:\Users\oikUser\Desktop\Project1 v0.008\Project1\obj\x86\Debug\Project1.csproj.GenerateResource.Cache
+G:\Для учёбы\Диплом\Обучение C#\Project1 v0.008\Project1\obj\x86\Debug\Project1.exe
+G:\Для учёбы\Диплом\Обучение C#\Project1 v0.008\Project1\obj\x86\Debug\Project1.csprojResolveAssemblyReference.cache
+G:\Для учёбы\Диплом\Обучение C#\Project1 v0.008\Project1\obj\x86\Debug\Project1.GTS.resources
+G:\Для учёбы\Диплом\Обучение C#\Project1 v0.008\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+G:\Для учёбы\Диплом\Обучение C#\Project1 v0.008\Project1\obj\x86\Debug\Project1.Raspisanie.resources
+G:\Для учёбы\Диплом\Обучение C#\Project1 v0.008\Project1\obj\x86\Debug\Project1.Создание_сигнала.resources
+G:\Для учёбы\Диплом\Обучение C#\Project1 v0.008\Project1\obj\x86\Debug\Project1.csproj.GenerateResource.Cache
+I:\Для учёбы\Диплом\Обучение C#\Project1 v0.008\Project1\obj\x86\Debug\Project1.exe
+I:\Для учёбы\Диплом\Обучение C#\Project1 v0.008\Project1\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Для учёбы\Диплом\Обучение C#\Project1 v0.008\Project1\obj\x86\Debug\Project1.GTS.resources
+I:\Для учёбы\Диплом\Обучение C#\Project1 v0.008\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+I:\Для учёбы\Диплом\Обучение C#\Project1 v0.008\Project1\obj\x86\Debug\Project1.Raspisanie.resources
+I:\Для учёбы\Диплом\Обучение C#\Project1 v0.008\Project1\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\Для учёбы\Диплом\Обучение C#\Project1 v0.008\Project1\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\Для учёбы\Диплом\Обучение C#\Project1 v0.008\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+I:\Для учёбы\Диплом\Обучение C#\Project1 v0.008\Project1\bin\Debug\Project1.exe
+I:\Для учёбы\Диплом\Обучение C#\Project1 v0.008\Project1\bin\Debug\Project1.pdb
+I:\Для учёбы\Диплом\Обучение C#\Project1 v0.008\Project1\obj\x86\Debug\Project1.pdb
+C:\Users\user\Desktop\Обучение C#\Project1 v0.009\Project1\obj\x86\Debug\Project1.exe
+C:\Users\user\Desktop\Обучение C#\Project1 v0.009\Project1\obj\x86\Debug\Project1.pdb
+C:\Users\user\Desktop\Обучение C#\Project1 v0.009\Project1\bin\Debug\Project1.exe
+C:\Users\user\Desktop\Обучение C#\Project1 v0.009\Project1\bin\Debug\Project1.pdb
+C:\Users\user\Desktop\Обучение C#\Project1 v0.009\Project1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Обучение C#\Project1 v0.009\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\user\Desktop\Обучение C#\Project1 v0.009\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+C:\Users\user\Desktop\Обучение C#\Project1 v0.009\Project1\obj\x86\Debug\Project1.Raspisanie.resources
+C:\Users\user\Desktop\Обучение C#\Project1 v0.009\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\user\Desktop\Обучение C#\Project1 v0.009\Project1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Desktop\Обучение C#\Project1 v0.009\Project1\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\Для учёбы\Диплом\Программа C#\Project1 v0.0010\Project1\obj\x86\Debug\Project1.exe
+I:\Для учёбы\Диплом\Программа C#\Project1 v0.0010\Project1\obj\x86\Debug\Project1.pdb
+I:\Для учёбы\Диплом\Программа C#\Project1 v0.0010\Project1\bin\Debug\Project1.exe
+I:\Для учёбы\Диплом\Программа C#\Project1 v0.0010\Project1\bin\Debug\Project1.pdb
+I:\Для учёбы\Диплом\Программа C#\Project1 v0.0010\Project1\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Для учёбы\Диплом\Программа C#\Project1 v0.0010\Project1\obj\x86\Debug\Project1.GTS.resources
+I:\Для учёбы\Диплом\Программа C#\Project1 v0.0010\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+I:\Для учёбы\Диплом\Программа C#\Project1 v0.0010\Project1\obj\x86\Debug\Project1.Raspisanie.resources
+I:\Для учёбы\Диплом\Программа C#\Project1 v0.0010\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+I:\Для учёбы\Диплом\Программа C#\Project1 v0.0010\Project1\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\Для учёбы\Диплом\Программа C#\Project1 v0.0010\Project1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\oikUser\Desktop\Project1 v0.0010\Project1\obj\x86\Debug\Project1.exe
+C:\Users\oikUser\Desktop\Project1 v0.0010\Project1\obj\x86\Debug\Project1.pdb
+C:\Users\oikUser\Desktop\Project1 v0.0010\Project1\bin\Debug\Project1.exe
+C:\Users\oikUser\Desktop\Project1 v0.0010\Project1\bin\Debug\Project1.pdb
+C:\Users\oikUser\Desktop\Project1 v0.0010\Project1\obj\x86\Debug\Project1.csprojResolveAssemblyReference.cache
+C:\Users\oikUser\Desktop\Project1 v0.0010\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikUser\Desktop\Project1 v0.0010\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+C:\Users\oikUser\Desktop\Project1 v0.0010\Project1\obj\x86\Debug\Project1.Raspisanie.resources
+C:\Users\oikUser\Desktop\Project1 v0.0010\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\oikUser\Desktop\Project1 v0.0010\Project1\obj\x86\Debug\Project1.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0011\Project1\obj\x86\Debug\Project1.exe
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0011\Project1\obj\x86\Debug\Project1.pdb
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0011\Project1\bin\Debug\Project1.exe
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0011\Project1\bin\Debug\Project1.pdb
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0011\Project1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0011\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0011\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0011\Project1\obj\x86\Debug\Project1.Raspisanie.resources
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0011\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0011\Project1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0011\Project1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0012\Project1\obj\x86\Debug\Project1.exe
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0012\Project1\obj\x86\Debug\Project1.pdb
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0012\Project1\bin\Debug\Project1.exe
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0012\Project1\bin\Debug\Project1.pdb
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0012\Project1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0012\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0012\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0012\Project1\obj\x86\Debug\Project1.Raspisanie.resources
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0012\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0012\Project1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0012\Project1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Desktop\Project1 v0.0012\Project1\obj\x86\Debug\Project1.exe
+C:\Users\user\Desktop\Project1 v0.0012\Project1\obj\x86\Debug\Project1.pdb
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0013\Project1\obj\x86\Debug\Project1.exe
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0013\Project1\obj\x86\Debug\Project1.pdb
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0013\Project1\bin\Debug\Project1.exe
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0013\Project1\bin\Debug\Project1.pdb
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0013\Project1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0013\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0013\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0013\Project1\obj\x86\Debug\Project1.Raspisanie.resources
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0013\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0013\Project1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0013\Project1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Desktop\Project1 v0.0013\Project1\obj\x86\Debug\Project1.exe
+C:\Users\user\Desktop\Project1 v0.0013\Project1\obj\x86\Debug\Project1.pdb
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0014\Project1\obj\x86\Debug\Project1.exe
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0014\Project1\obj\x86\Debug\Project1.pdb
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0014\Project1\bin\Debug\Project1.exe
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0014\Project1\bin\Debug\Project1.pdb
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0014\Project1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0014\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0014\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0014\Project1\obj\x86\Debug\Project1.Raspisanie.resources
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0014\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0014\Project1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0014\Project1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Desktop\Project1 v0.0015\Project1\obj\x86\Debug\Project1.exe
+C:\Users\user\Desktop\Project1 v0.0015\Project1\obj\x86\Debug\Project1.pdb
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0015\Project1\obj\x86\Debug\Project1.exe
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0015\Project1\obj\x86\Debug\Project1.pdb
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0015\Project1\bin\Debug\Project1.exe
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0015\Project1\bin\Debug\Project1.pdb
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0015\Project1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0015\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0015\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0015\Project1\obj\x86\Debug\Project1.Raspisanie.resources
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0015\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0015\Project1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0015\Project1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Desktop\Project1 v0.0016\Project1\obj\x86\Debug\Project1.exe
+C:\Users\user\Desktop\Project1 v0.0016\Project1\obj\x86\Debug\Project1.pdb
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0016\Project1\obj\x86\Debug\Project1.exe
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0016\Project1\obj\x86\Debug\Project1.pdb
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0016\Project1\bin\Debug\Project1.exe
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0016\Project1\bin\Debug\Project1.pdb
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0016\Project1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0016\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0016\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0016\Project1\obj\x86\Debug\Project1.Raspisanie.resources
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0016\Project1\obj\x86\Debug\Project1.Raspisanie2.resources
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0016\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0016\Project1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0016\Project1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Desktop\Project1 v0.0017\Project1\obj\x86\Debug\Project1.exe
+C:\Users\user\Desktop\Project1 v0.0017\Project1\obj\x86\Debug\Project1.pdb
+I:\Для учёбы\Диплом\Программа C#\Project1 v0.0017\Project1\obj\x86\Debug\Project1.exe
+I:\Для учёбы\Диплом\Программа C#\Project1 v0.0017\Project1\obj\x86\Debug\Project1.pdb
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.0017\Project1\obj\x86\Debug\Project1.exe
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.0017\Project1\obj\x86\Debug\Project1.pdb
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.0017\Project1\bin\Debug\Project1.exe
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.0017\Project1\bin\Debug\Project1.pdb
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.0017\Project1\obj\x86\Debug\Project1.csprojResolveAssemblyReference.cache
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.0017\Project1\obj\x86\Debug\Project1.GTS.resources
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.0017\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.0017\Project1\obj\x86\Debug\Project1.Raspisanie.resources
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.0017\Project1\obj\x86\Debug\Project1.Raspisanie2.resources
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.0017\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.0017\Project1\obj\x86\Debug\Project1.csproj.GenerateResource.Cache
+C:\Users\oikASDU\Desktop\Project1 v0.0018\Project1\obj\x86\Debug\Project1.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0018\Project1\obj\x86\Debug\Project1.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0018\Project1\bin\Debug\Project1.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0018\Project1\bin\Debug\Project1.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0018\Project1\obj\x86\Debug\Project1.csprojResolveAssemblyReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0018\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0018\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0018\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0018\Project1\obj\x86\Debug\Project1.Raspisanie.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0018\Project1\obj\x86\Debug\Project1.Raspisanie2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0018\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0018\Project1\obj\x86\Debug\Project1.csproj.GenerateResource.Cache
+C:\Users\oikASDU\Desktop\Project1 v0.0018\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0018\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0018\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0018\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0018\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0018\Project1\obj\x86\Debug\Project1.csproj.ResolveComReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\obj\x86\Debug\Project1.csproj.ResolveComReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\obj\x86\Debug\Project1.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\obj\x86\Debug\Project1.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\bin\Debug\Project1.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\bin\Debug\Project1.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\obj\x86\Debug\Project1.csprojResolveAssemblyReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\obj\x86\Debug\Project1.Raspisanie.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\obj\x86\Debug\Project1.Raspisanie2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\obj\x86\Debug\Project1.csproj.GenerateResource.Cache
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\bin\Debug\Project1.exe.config
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\bin\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\bin\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\bin\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\bin\Debug\Interop.OICDAC.dll

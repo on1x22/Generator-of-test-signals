@@ -1,0 +1,1811 @@
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\bin\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\bin\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\bin\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\bin\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\obj\x86\Debug\Project1.Raspisanie.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\obj\x86\Debug\Project1.Raspisanie2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\bin\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\bin\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\obj\x86\Debug\GTS.Properties.Resources.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0019\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0020\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikASDU\Desktop\Project1 v0.0020\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0020\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0020\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0020\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0020\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0020\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0020\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0020\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0020\Project1\bin\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0020\Project1\bin\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0020\Project1\bin\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0020\Project1\bin\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0020\Project1\bin\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0020\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0020\Project1\bin\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0020\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0020\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0020\Project1\obj\x86\Debug\GTS.Properties.Resources.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0020\Project1\obj\x86\Debug\Project1.Raspisanie.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0020\Project1\obj\x86\Debug\Project1.Raspisanie2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0020\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0020\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+C:\Users\oikASDU\Desktop\Project1 v0.0020\Project1\obj\x86\Debug\Project1.Modul2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0021\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikASDU\Desktop\Project1 v0.0021\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0021\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0021\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0021\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0021\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0021\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0021\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0021\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0021\Project1\bin\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0021\Project1\bin\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0021\Project1\bin\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0021\Project1\bin\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0021\Project1\bin\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0021\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0021\Project1\bin\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0021\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0021\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0021\Project1\obj\x86\Debug\Project1.Modul2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0021\Project1\obj\x86\Debug\GTS.Properties.Resources.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0021\Project1\obj\x86\Debug\Project1.Raspisanie.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0021\Project1\obj\x86\Debug\Project1.Raspisanie2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0021\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0021\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+C:\Users\oikASDU\Desktop\Project1 v0.0022\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikASDU\Desktop\Project1 v0.0022\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0022\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0022\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0022\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0022\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0022\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0022\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0022\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0022\Project1\bin\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0022\Project1\bin\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0022\Project1\bin\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0022\Project1\bin\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0022\Project1\bin\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0022\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0022\Project1\bin\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0022\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0022\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0022\Project1\obj\x86\Debug\Project1.Modul2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0022\Project1\obj\x86\Debug\GTS.Properties.Resources.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0022\Project1\obj\x86\Debug\Project1.Raspisanie.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0022\Project1\obj\x86\Debug\Project1.Raspisanie2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0022\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0022\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+C:\Users\oikASDU\Desktop\Project1 v0.0023\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikASDU\Desktop\Project1 v0.0023\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0023\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0023\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0023\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0023\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0023\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0023\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0023\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0023\Project1\bin\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0023\Project1\bin\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0023\Project1\bin\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0023\Project1\bin\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0023\Project1\bin\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0023\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0023\Project1\bin\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0023\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0023\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0023\Project1\obj\x86\Debug\Project1.Modul2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0023\Project1\obj\x86\Debug\GTS.Properties.Resources.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0023\Project1\obj\x86\Debug\Project1.Raspisanie.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0023\Project1\obj\x86\Debug\Project1.Raspisanie2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0023\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0023\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+C:\Users\oikASDU\Desktop\Project1 v0.0024\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikASDU\Desktop\Project1 v0.0024\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0024\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0024\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0024\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0024\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0024\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0024\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0024\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0024\Project1\bin\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0024\Project1\bin\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0024\Project1\bin\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0024\Project1\bin\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0024\Project1\bin\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0024\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0024\Project1\bin\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0024\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0024\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0024\Project1\obj\x86\Debug\Project1.Modul2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0024\Project1\obj\x86\Debug\GTS.Properties.Resources.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0024\Project1\obj\x86\Debug\Project1.Raspisanie.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0024\Project1\obj\x86\Debug\Project1.Raspisanie2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0024\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0024\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+C:\Users\oikASDU\Desktop\Project1 v0.0025\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikASDU\Desktop\Project1 v0.0025\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0025\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0025\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0025\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0025\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0025\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0025\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0025\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0025\Project1\bin\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0025\Project1\bin\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0025\Project1\bin\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0025\Project1\bin\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0025\Project1\bin\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0025\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0025\Project1\bin\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0025\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0025\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0025\Project1\obj\x86\Debug\Project1.Modul2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0025\Project1\obj\x86\Debug\GTS.Properties.Resources.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0025\Project1\obj\x86\Debug\Project1.Raspisanie.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0025\Project1\obj\x86\Debug\Project1.Raspisanie2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0025\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0025\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+C:\Users\oikASDU\Desktop\Project1 v0.0026\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikASDU\Desktop\Project1 v0.0026\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0026\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0026\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0026\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0026\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0026\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0026\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0026\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0026\Project1\bin\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0026\Project1\bin\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0026\Project1\bin\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0026\Project1\bin\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0026\Project1\bin\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0026\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0026\Project1\bin\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0026\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0026\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0026\Project1\obj\x86\Debug\Project1.Modul2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0026\Project1\obj\x86\Debug\GTS.Properties.Resources.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0026\Project1\obj\x86\Debug\Project1.Raspisanie.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0026\Project1\obj\x86\Debug\Project1.Raspisanie2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0026\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0026\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+C:\Users\oikASDU\Desktop\Project1 v0.0026\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+C:\Users\oikUser\Desktop\Project1 v0.0027\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikUser\Desktop\Project1 v0.0027\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikUser\Desktop\Project1 v0.0027\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikUser\Desktop\Project1 v0.0027\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikUser\Desktop\Project1 v0.0027\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikUser\Desktop\Project1 v0.0027\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikUser\Desktop\Project1 v0.0027\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikUser\Desktop\Project1 v0.0027\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikUser\Desktop\Project1 v0.0027\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikUser\Desktop\Project1 v0.0027\Project1\bin\Debug\GTS.exe
+C:\Users\oikUser\Desktop\Project1 v0.0027\Project1\bin\Debug\GTS.pdb
+C:\Users\oikUser\Desktop\Project1 v0.0027\Project1\bin\Debug\Interop.ADODB.dll
+C:\Users\oikUser\Desktop\Project1 v0.0027\Project1\bin\Debug\Interop.CKStyles.dll
+C:\Users\oikUser\Desktop\Project1 v0.0027\Project1\bin\Debug\Interop.CKUtils.dll
+C:\Users\oikUser\Desktop\Project1 v0.0027\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\oikUser\Desktop\Project1 v0.0027\Project1\bin\Debug\Interop.OICDAC.dll
+C:\Users\oikUser\Desktop\Project1 v0.0027\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+C:\Users\oikUser\Desktop\Project1 v0.0027\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikUser\Desktop\Project1 v0.0027\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\oikUser\Desktop\Project1 v0.0027\Project1\obj\x86\Debug\Project1.Modul2.resources
+C:\Users\oikUser\Desktop\Project1 v0.0027\Project1\obj\x86\Debug\GTS.Properties.Resources.resources
+C:\Users\oikUser\Desktop\Project1 v0.0027\Project1\obj\x86\Debug\Project1.Raspisanie.resources
+C:\Users\oikUser\Desktop\Project1 v0.0027\Project1\obj\x86\Debug\Project1.Raspisanie2.resources
+C:\Users\oikUser\Desktop\Project1 v0.0027\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\oikUser\Desktop\Project1 v0.0027\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+C:\Users\oikUser\Desktop\Project1 v0.0028\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikUser\Desktop\Project1 v0.0028\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikUser\Desktop\Project1 v0.0028\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikUser\Desktop\Project1 v0.0028\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikUser\Desktop\Project1 v0.0028\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikUser\Desktop\Project1 v0.0028\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikUser\Desktop\Project1 v0.0028\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikUser\Desktop\Project1 v0.0028\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikUser\Desktop\Project1 v0.0028\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikUser\Desktop\Project1 v0.0028\Project1\bin\Debug\GTS.exe
+C:\Users\oikUser\Desktop\Project1 v0.0028\Project1\bin\Debug\GTS.pdb
+C:\Users\oikUser\Desktop\Project1 v0.0028\Project1\bin\Debug\Interop.ADODB.dll
+C:\Users\oikUser\Desktop\Project1 v0.0028\Project1\bin\Debug\Interop.CKStyles.dll
+C:\Users\oikUser\Desktop\Project1 v0.0028\Project1\bin\Debug\Interop.CKUtils.dll
+C:\Users\oikUser\Desktop\Project1 v0.0028\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\oikUser\Desktop\Project1 v0.0028\Project1\bin\Debug\Interop.OICDAC.dll
+C:\Users\oikUser\Desktop\Project1 v0.0028\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+C:\Users\oikUser\Desktop\Project1 v0.0028\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikUser\Desktop\Project1 v0.0028\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\oikUser\Desktop\Project1 v0.0028\Project1\obj\x86\Debug\Project1.Modul2.resources
+C:\Users\oikUser\Desktop\Project1 v0.0028\Project1\obj\x86\Debug\GTS.Properties.Resources.resources
+C:\Users\oikUser\Desktop\Project1 v0.0028\Project1\obj\x86\Debug\Project1.Raspisanie.resources
+C:\Users\oikUser\Desktop\Project1 v0.0028\Project1\obj\x86\Debug\Project1.Raspisanie2.resources
+C:\Users\oikUser\Desktop\Project1 v0.0028\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\oikUser\Desktop\Project1 v0.0028\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+C:\Users\oikUser\Desktop\Project1 v0.0029\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikUser\Desktop\Project1 v0.0029\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikUser\Desktop\Project1 v0.0029\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikUser\Desktop\Project1 v0.0029\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikUser\Desktop\Project1 v0.0029\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikUser\Desktop\Project1 v0.0029\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikUser\Desktop\Project1 v0.0029\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikUser\Desktop\Project1 v0.0029\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikUser\Desktop\Project1 v0.0029\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikUser\Desktop\Project1 v0.0029\Project1\bin\Debug\GTS.exe
+C:\Users\oikUser\Desktop\Project1 v0.0029\Project1\bin\Debug\GTS.pdb
+C:\Users\oikUser\Desktop\Project1 v0.0029\Project1\bin\Debug\Interop.ADODB.dll
+C:\Users\oikUser\Desktop\Project1 v0.0029\Project1\bin\Debug\Interop.CKStyles.dll
+C:\Users\oikUser\Desktop\Project1 v0.0029\Project1\bin\Debug\Interop.CKUtils.dll
+C:\Users\oikUser\Desktop\Project1 v0.0029\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\oikUser\Desktop\Project1 v0.0029\Project1\bin\Debug\Interop.OICDAC.dll
+C:\Users\oikUser\Desktop\Project1 v0.0029\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+C:\Users\oikUser\Desktop\Project1 v0.0029\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikUser\Desktop\Project1 v0.0029\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\oikUser\Desktop\Project1 v0.0029\Project1\obj\x86\Debug\Project1.Modul2.resources
+C:\Users\oikUser\Desktop\Project1 v0.0029\Project1\obj\x86\Debug\GTS.Properties.Resources.resources
+C:\Users\oikUser\Desktop\Project1 v0.0029\Project1\obj\x86\Debug\Project1.Raspisanie.resources
+C:\Users\oikUser\Desktop\Project1 v0.0029\Project1\obj\x86\Debug\Project1.Raspisanie2.resources
+C:\Users\oikUser\Desktop\Project1 v0.0029\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\oikUser\Desktop\Project1 v0.0029\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+C:\Users\oikUser\Desktop\Project1 v0.0030\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikUser\Desktop\Project1 v0.0030\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikUser\Desktop\Project1 v0.0030\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikUser\Desktop\Project1 v0.0030\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikUser\Desktop\Project1 v0.0030\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikUser\Desktop\Project1 v0.0030\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikUser\Desktop\Project1 v0.0030\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikUser\Desktop\Project1 v0.0030\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikUser\Desktop\Project1 v0.0030\Project1\obj\x86\Debug\GTS.pdb
+Z:\папки студентов\Алехин\Project1 v0.0030\Project1\bin\Debug\GTS.exe.config
+Z:\папки студентов\Алехин\Project1 v0.0030\Project1\obj\x86\Debug\Interop.ADODB.dll
+Z:\папки студентов\Алехин\Project1 v0.0030\Project1\obj\x86\Debug\Interop.CKStyles.dll
+Z:\папки студентов\Алехин\Project1 v0.0030\Project1\obj\x86\Debug\Interop.CKUtils.dll
+Z:\папки студентов\Алехин\Project1 v0.0030\Project1\obj\x86\Debug\Interop.MSXML2.dll
+Z:\папки студентов\Алехин\Project1 v0.0030\Project1\obj\x86\Debug\Interop.OICDAC.dll
+Z:\папки студентов\Алехин\Project1 v0.0030\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+Z:\папки студентов\Алехин\Project1 v0.0030\Project1\obj\x86\Debug\GTS.exe
+Z:\папки студентов\Алехин\Project1 v0.0030\Project1\obj\x86\Debug\GTS.pdb
+Z:\папки студентов\Алехин\Project1 v0.0030\Project1\bin\Debug\GTS.exe
+Z:\папки студентов\Алехин\Project1 v0.0030\Project1\bin\Debug\GTS.pdb
+Z:\папки студентов\Алехин\Project1 v0.0030\Project1\bin\Debug\Interop.ADODB.dll
+Z:\папки студентов\Алехин\Project1 v0.0030\Project1\bin\Debug\Interop.CKStyles.dll
+Z:\папки студентов\Алехин\Project1 v0.0030\Project1\bin\Debug\Interop.CKUtils.dll
+Z:\папки студентов\Алехин\Project1 v0.0030\Project1\bin\Debug\Interop.MSXML2.dll
+Z:\папки студентов\Алехин\Project1 v0.0030\Project1\bin\Debug\Interop.OICDAC.dll
+Z:\папки студентов\Алехин\Project1 v0.0030\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+Z:\папки студентов\Алехин\Project1 v0.0030\Project1\obj\x86\Debug\Project1.GTS.resources
+Z:\папки студентов\Алехин\Project1 v0.0030\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+Z:\папки студентов\Алехин\Project1 v0.0030\Project1\obj\x86\Debug\Project1.Modul2.resources
+Z:\папки студентов\Алехин\Project1 v0.0030\Project1\obj\x86\Debug\GTS.Properties.Resources.resources
+Z:\папки студентов\Алехин\Project1 v0.0030\Project1\obj\x86\Debug\Project1.Raspisanie.resources
+Z:\папки студентов\Алехин\Project1 v0.0030\Project1\obj\x86\Debug\Project1.Raspisanie2.resources
+Z:\папки студентов\Алехин\Project1 v0.0030\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+Z:\папки студентов\Алехин\Project1 v0.0030\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+C:\Users\oikASDU\Desktop\Project1 v0.0030\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikASDU\Desktop\Project1 v0.0030\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0030\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0030\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0030\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0030\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0030\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0030\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0030\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0031\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikASDU\Desktop\Project1 v0.0031\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0031\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0031\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0031\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0031\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0031\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0031\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0031\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0031\Project1\bin\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0031\Project1\bin\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0031\Project1\bin\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0031\Project1\bin\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0031\Project1\bin\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0031\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0031\Project1\bin\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0031\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0031\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0031\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0031\Project1\obj\x86\Debug\Project1.Modul2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0031\Project1\obj\x86\Debug\GTS.Properties.Resources.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0031\Project1\obj\x86\Debug\Project1.Raspisanie.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0031\Project1\obj\x86\Debug\Project1.Raspisanie2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0031\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0031\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+C:\Users\oikASDU\Desktop\Project1 v0.0032\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikASDU\Desktop\Project1 v0.0032\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0032\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0032\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0032\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0032\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0032\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0032\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0032\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0032\Project1\bin\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0032\Project1\bin\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0032\Project1\bin\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0032\Project1\bin\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0032\Project1\bin\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0032\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0032\Project1\bin\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0032\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0032\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0032\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0032\Project1\obj\x86\Debug\Project1.Modul2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0032\Project1\obj\x86\Debug\GTS.Properties.Resources.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0032\Project1\obj\x86\Debug\Project1.Raspisanie.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0032\Project1\obj\x86\Debug\Project1.Raspisanie2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0032\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0032\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+C:\Users\oikASDU\Desktop\Project1 v0.0033\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikASDU\Desktop\Project1 v0.0033\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0033\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0033\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0033\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0033\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0033\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0033\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0033\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0033\Project1\bin\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0033\Project1\bin\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0033\Project1\bin\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0033\Project1\bin\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0033\Project1\bin\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0033\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0033\Project1\bin\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0033\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0033\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0033\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0033\Project1\obj\x86\Debug\Project1.Modul2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0033\Project1\obj\x86\Debug\GTS.Properties.Resources.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0033\Project1\obj\x86\Debug\Project1.Raspisanie.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0033\Project1\obj\x86\Debug\Project1.Raspisanie2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0033\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0033\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+C:\Users\oikASDU\Desktop\Project1 v0.0034\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikASDU\Desktop\Project1 v0.0034\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0034\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0034\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0034\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0034\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0034\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0034\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0034\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0034\Project1\bin\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0034\Project1\bin\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0034\Project1\bin\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0034\Project1\bin\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0034\Project1\bin\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0034\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0034\Project1\bin\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0034\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0034\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0034\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0034\Project1\obj\x86\Debug\Project1.Modul2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0034\Project1\obj\x86\Debug\GTS.Properties.Resources.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0034\Project1\obj\x86\Debug\Project1.Raspisanie.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0034\Project1\obj\x86\Debug\Project1.Raspisanie2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0034\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0034\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+C:\Users\oikASDU\Desktop\Project1 v0.0035\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikASDU\Desktop\Project1 v0.0035\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0035\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0035\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0035\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0035\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0035\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0035\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0035\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0035\Project1\bin\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0035\Project1\bin\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0035\Project1\bin\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0035\Project1\bin\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0035\Project1\bin\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0035\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0035\Project1\bin\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0035\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0035\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0035\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0035\Project1\obj\x86\Debug\Project1.Modul2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0035\Project1\obj\x86\Debug\GTS.Properties.Resources.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0035\Project1\obj\x86\Debug\Project1.Raspisanie.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0035\Project1\obj\x86\Debug\Project1.Raspisanie2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0035\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0035\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+C:\Users\oikASDU\Desktop\Project1 v0.0036\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikASDU\Desktop\Project1 v0.0036\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0036\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0036\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0036\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0036\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0036\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0036\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0036\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0036\Project1\bin\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0036\Project1\bin\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0036\Project1\bin\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0036\Project1\bin\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0036\Project1\bin\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0036\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0036\Project1\bin\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0036\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0036\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0036\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0036\Project1\obj\x86\Debug\Project1.Modul2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0036\Project1\obj\x86\Debug\GTS.Properties.Resources.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0036\Project1\obj\x86\Debug\Project1.Raspisanie.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0036\Project1\obj\x86\Debug\Project1.Raspisanie2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0036\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0036\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+C:\Users\oikASDU\Desktop\Project1 v0.0038.a\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikASDU\Desktop\Project1 v0.0038.a\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0038.a\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0038.a\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0038.a\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0038.a\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0038.a\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0038.a\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0038.a\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0038.a\Project1\bin\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0038.a\Project1\bin\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0038.a\Project1\bin\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0038.a\Project1\bin\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0038.a\Project1\bin\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0038.a\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0038.a\Project1\bin\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0038.a\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0038.a\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0038.a\Project1\obj\x86\Debug\Project1.Modul2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0038.a\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0038.a\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+C:\Users\oikASDU\Desktop\Project1 v0.0038.a\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0038.a\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0039\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikASDU\Desktop\Project1 v0.0039\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0039\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0039\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0039\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0039\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0039\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0039\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0039\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0039\Project1\bin\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0039\Project1\bin\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0039\Project1\bin\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0039\Project1\bin\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0039\Project1\bin\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0039\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0039\Project1\bin\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0039\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0039\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0039\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0039\Project1\obj\x86\Debug\Project1.Modul2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0039\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0039\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0039\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+C:\Users\oikASDU\Desktop\Project1 v0.0040\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikASDU\Desktop\Project1 v0.0040\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0040\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0040\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0040\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0040\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0040\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0040\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0040\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0040\Project1\bin\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0040\Project1\bin\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0040\Project1\bin\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0040\Project1\bin\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0040\Project1\bin\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0040\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0040\Project1\bin\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0040\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0040\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0040\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0040\Project1\obj\x86\Debug\Project1.Modul2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0040\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0040\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0040\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0040\Project1\bin\Debug\GTS.exe.config
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0040\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0040\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0040\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0040\Project1\obj\x86\Debug\GTS.exe
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0040\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0040\Project1\bin\Debug\GTS.exe
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0040\Project1\bin\Debug\GTS.pdb
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0040\Project1\bin\Debug\Interop.ADODB.dll
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0040\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0040\Project1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0040\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0040\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0040\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0040\Project1\obj\x86\Debug\Project1.Modul2.resources
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0040\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0040\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0040\Project1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Desktop\Обучение C#\Project1 v0.0040\Project1\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\Для учёбы\Диплом\Программа C#\Project1 v0.0041\Project1\bin\Debug\GTS.exe.config
+I:\Для учёбы\Диплом\Программа C#\Project1 v0.0041\Project1\obj\x86\Debug\Interop.ADODB.dll
+I:\Для учёбы\Диплом\Программа C#\Project1 v0.0041\Project1\obj\x86\Debug\Interop.MSXML2.dll
+I:\Для учёбы\Диплом\Программа C#\Project1 v0.0041\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+I:\Для учёбы\Диплом\Программа C#\Project1 v0.0041\Project1\obj\x86\Debug\GTS.exe
+I:\Для учёбы\Диплом\Программа C#\Project1 v0.0041\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0041\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikASDU\Desktop\Project1 v0.0041\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0041\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0041\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0041\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0041\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0041\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0041\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0041\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0041\Project1\bin\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0041\Project1\bin\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0041\Project1\bin\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0041\Project1\bin\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0041\Project1\bin\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0041\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0041\Project1\bin\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0041\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0041\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0041\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0041\Project1\obj\x86\Debug\Project1.Modul2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0041\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0041\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0041\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+C:\Users\oikASDU\Desktop\Project1 v0.0042\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikASDU\Desktop\Project1 v0.0042\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0042\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0042\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0042\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0042\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0042\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0042\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0042\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0042\Project1\bin\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0042\Project1\bin\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0042\Project1\bin\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0042\Project1\bin\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0042\Project1\bin\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0042\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0042\Project1\bin\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0042\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0042\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0042\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0042\Project1\obj\x86\Debug\Project1.Modul2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0042\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0042\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0042\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+C:\Users\oikASDU\Desktop\Project1 v0.0043\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikASDU\Desktop\Project1 v0.0043\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0043\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0043\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0043\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0043\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0043\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0043\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0043\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0043\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0043\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0043\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0043\Project1\obj\x86\Debug\Project1.Modul2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0043\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0043\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0043\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+C:\Users\oikASDU\Desktop\Project1 v0.0043\Project1\bin\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0043\Project1\bin\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0043\Project1\bin\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0043\Project1\bin\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0043\Project1\bin\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0043\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0043\Project1\bin\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0044\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikASDU\Desktop\Project1 v0.0044\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0044\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0044\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0044\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0044\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0044\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0044\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0044\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0044\Project1\bin\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0044\Project1\bin\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0044\Project1\bin\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0044\Project1\bin\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0044\Project1\bin\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0044\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0044\Project1\bin\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0044\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0044\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0044\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0044\Project1\obj\x86\Debug\Project1.Modul2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0044\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0044\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0044\Project1\obj\x86\Debug\Project1.Special.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0044\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+C:\Users\oikASDU\Desktop\Project1 v0.0045\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikASDU\Desktop\Project1 v0.0045\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0045\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0045\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0045\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0045\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0045\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0045\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0045\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0046\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikASDU\Desktop\Project1 v0.0046\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0046\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0046\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0046\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0046\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0046\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0046\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0046\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0046\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0046\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0046\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0046\Project1\obj\x86\Debug\Project1.Modul2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0046\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0046\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0046\Project1\obj\x86\Debug\Project1.Special.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0046\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+C:\Users\oikASDU\Desktop\Project1 v0.0046\Project1\bin\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0046\Project1\bin\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0046\Project1\bin\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0046\Project1\bin\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0046\Project1\bin\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0046\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0046\Project1\bin\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0047\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikASDU\Desktop\Project1 v0.0047\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0047\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0047\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0047\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0047\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0047\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0047\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0047\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0047\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0047\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0047\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0047\Project1\obj\x86\Debug\Project1.Modul2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0047\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0047\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0047\Project1\obj\x86\Debug\Project1.Special.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0047\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+C:\Users\oikASDU\Desktop\Project1 v0.0047\Project1\bin\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0047\Project1\bin\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0047\Project1\bin\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0047\Project1\bin\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0047\Project1\bin\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0047\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0047\Project1\bin\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0048\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikASDU\Desktop\Project1 v0.0048\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0048\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0048\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0048\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0048\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0048\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0048\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0048\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0048\Project1\bin\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0048\Project1\bin\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0048\Project1\bin\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0048\Project1\bin\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0048\Project1\bin\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0048\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0048\Project1\bin\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0048\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0048\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0048\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0048\Project1\obj\x86\Debug\Project1.Modul2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0048\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0048\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0048\Project1\obj\x86\Debug\Project1.Special.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0048\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+C:\Users\oikASDU\Desktop\Project1 v0.0049\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikASDU\Desktop\Project1 v0.0049\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0049\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0049\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0049\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0049\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0049\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0049\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0049\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0049\Project1\bin\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0049\Project1\bin\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0049\Project1\bin\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0049\Project1\bin\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0049\Project1\bin\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0049\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0049\Project1\bin\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0049\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0049\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0049\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0049\Project1\obj\x86\Debug\Project1.Modul2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0049\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0049\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0049\Project1\obj\x86\Debug\Project1.Special.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0049\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+C:\Users\oikASDU\Desktop\Project1 v0.0050\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikASDU\Desktop\Project1 v0.0050\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0050\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0050\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0050\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0050\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0050\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0050\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0050\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0050\Project1\bin\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0050\Project1\bin\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0050\Project1\bin\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0050\Project1\bin\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0050\Project1\bin\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0050\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0050\Project1\bin\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0050\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0050\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0050\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0050\Project1\obj\x86\Debug\Project1.Modul2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0050\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0050\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0050\Project1\obj\x86\Debug\Project1.Special.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0050\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+C:\Users\oikASDU\Desktop\Project1 v0.0051\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikASDU\Desktop\Project1 v0.0051\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0051\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0051\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0051\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0051\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0051\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0051\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0051\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0051\Project1\bin\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0051\Project1\bin\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0051\Project1\bin\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0051\Project1\bin\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0051\Project1\bin\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0051\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0051\Project1\bin\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0051\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0051\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0051\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0051\Project1\obj\x86\Debug\Project1.Modul2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0051\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0051\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0051\Project1\obj\x86\Debug\Project1.Special.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0051\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+C:\Users\oikUser\Desktop\Project1 v0.0051\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikUser\Desktop\Project1 v0.0051\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikUser\Desktop\Project1 v0.0051\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikUser\Desktop\Project1 v0.0051\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikUser\Desktop\Project1 v0.0051\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikUser\Desktop\Project1 v0.0051\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikUser\Desktop\Project1 v0.0051\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikUser\Desktop\Project1 v0.0051\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikUser\Desktop\Project1 v0.0051\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikUser\Desktop\Project1 v0.0051\Project1\bin\Debug\GTS.exe
+C:\Users\oikUser\Desktop\Project1 v0.0051\Project1\bin\Debug\GTS.pdb
+C:\Users\oikUser\Desktop\Project1 v0.0051\Project1\bin\Debug\Interop.ADODB.dll
+C:\Users\oikUser\Desktop\Project1 v0.0051\Project1\bin\Debug\Interop.CKStyles.dll
+C:\Users\oikUser\Desktop\Project1 v0.0051\Project1\bin\Debug\Interop.CKUtils.dll
+C:\Users\oikUser\Desktop\Project1 v0.0051\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\oikUser\Desktop\Project1 v0.0051\Project1\bin\Debug\Interop.OICDAC.dll
+C:\Users\oikUser\Desktop\Project1 v0.0051\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikUser\Desktop\Project1 v0.0051\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\oikUser\Desktop\Project1 v0.0051\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+C:\Users\oikUser\Desktop\Project1 v0.0051\Project1\obj\x86\Debug\Project1.Modul2.resources
+C:\Users\oikUser\Desktop\Project1 v0.0051\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+C:\Users\oikUser\Desktop\Project1 v0.0051\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\oikUser\Desktop\Project1 v0.0051\Project1\obj\x86\Debug\Project1.Special.resources
+C:\Users\oikUser\Desktop\Project1 v0.0051\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+C:\Users\oikUser\Desktop\Project1 v0.0052\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikUser\Desktop\Project1 v0.0052\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikUser\Desktop\Project1 v0.0052\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikUser\Desktop\Project1 v0.0052\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikUser\Desktop\Project1 v0.0052\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikUser\Desktop\Project1 v0.0052\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikUser\Desktop\Project1 v0.0052\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikUser\Desktop\Project1 v0.0052\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikUser\Desktop\Project1 v0.0052\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0052\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikASDU\Desktop\Project1 v0.0052\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0052\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0052\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0052\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0052\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0052\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0052\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0052\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0052\Project1\bin\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0052\Project1\bin\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0052\Project1\bin\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0052\Project1\bin\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0052\Project1\bin\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0052\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0052\Project1\bin\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0052\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0052\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0052\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0052\Project1\obj\x86\Debug\Project1.Modul2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0052\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0052\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0052\Project1\obj\x86\Debug\Project1.Special.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0052\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+C:\Users\oikASDU\Desktop\Project1 v0.0053\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikASDU\Desktop\Project1 v0.0053\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0053\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0053\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0053\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0053\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0053\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0053\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0053\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0053\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0053\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0053\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0053\Project1\obj\x86\Debug\Project1.Modul2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0053\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0053\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0053\Project1\obj\x86\Debug\Project1.Special.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0053\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+C:\Users\oikASDU\Desktop\Project1 v0.0053\Project1\bin\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0053\Project1\bin\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0053\Project1\bin\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0053\Project1\bin\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0053\Project1\bin\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0053\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0053\Project1\bin\Debug\Interop.OICDAC.dll
+I:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\bin\Debug\GTS.exe.config
+I:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\obj\x86\Debug\Interop.ADODB.dll
+I:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\obj\x86\Debug\Interop.MSXML2.dll
+I:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+I:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\obj\x86\Debug\GTS.exe
+I:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\obj\x86\Debug\GTS.pdb
+I:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\bin\Debug\GTS.exe
+I:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\bin\Debug\GTS.pdb
+I:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\bin\Debug\Interop.ADODB.dll
+I:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\bin\Debug\Interop.MSXML2.dll
+I:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\obj\x86\Debug\Project1.GTS.resources
+I:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+I:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+I:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\obj\x86\Debug\Project1.Modul2.resources
+I:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+I:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+I:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\obj\x86\Debug\Project1.Special.resources
+I:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\bin\Debug\GTS.exe.config
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\obj\x86\Debug\Interop.ADODB.dll
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\obj\x86\Debug\Interop.CKStyles.dll
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\obj\x86\Debug\Interop.CKUtils.dll
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\obj\x86\Debug\Interop.MSXML2.dll
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\obj\x86\Debug\Interop.OICDAC.dll
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\obj\x86\Debug\GTS.exe
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\obj\x86\Debug\GTS.pdb
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\bin\Debug\GTS.exe
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\bin\Debug\GTS.pdb
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\bin\Debug\Interop.ADODB.dll
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\bin\Debug\Interop.CKStyles.dll
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\bin\Debug\Interop.CKUtils.dll
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\bin\Debug\Interop.MSXML2.dll
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\bin\Debug\Interop.OICDAC.dll
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\obj\x86\Debug\Project1.GTS.resources
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\obj\x86\Debug\Project1.Modul2.resources
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\obj\x86\Debug\Project1.Special.resources
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+F:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\bin\Debug\GTS.exe.config
+F:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\obj\x86\Debug\Interop.ADODB.dll
+F:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\obj\x86\Debug\Interop.MSXML2.dll
+F:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+F:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\obj\x86\Debug\GTS.exe
+F:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\obj\x86\Debug\GTS.pdb
+F:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\bin\Debug\GTS.exe
+F:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\bin\Debug\GTS.pdb
+F:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\bin\Debug\Interop.ADODB.dll
+F:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\bin\Debug\Interop.MSXML2.dll
+F:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+F:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\obj\x86\Debug\Project1.GTS.resources
+F:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+F:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+F:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\obj\x86\Debug\Project1.Modul2.resources
+F:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+F:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+F:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\obj\x86\Debug\Project1.Special.resources
+F:\Для учёбы\Диплом\Программа C#\Project1 v0.0054\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0055\Project1\bin\Debug\GTS.exe.config
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0055\Project1\obj\x86\Debug\Interop.ADODB.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0055\Project1\obj\x86\Debug\Interop.MSXML2.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0055\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0055\Project1\obj\x86\Debug\GTS.exe
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0055\Project1\obj\x86\Debug\GTS.pdb
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0055\Project1\bin\Debug\GTS.exe
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0055\Project1\bin\Debug\GTS.pdb
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0055\Project1\bin\Debug\Interop.ADODB.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0055\Project1\bin\Debug\Interop.MSXML2.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0055\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0055\Project1\obj\x86\Debug\Project1.GTS.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0055\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0055\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0055\Project1\obj\x86\Debug\Project1.Modul2.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0055\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0055\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0055\Project1\obj\x86\Debug\Project1.Special.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0055\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+G:\Project1 v0.0056\Project1\bin\Debug\GTS.exe.config
+G:\Project1 v0.0056\Project1\obj\x86\Debug\Interop.ADODB.dll
+G:\Project1 v0.0056\Project1\obj\x86\Debug\Interop.CKStyles.dll
+G:\Project1 v0.0056\Project1\obj\x86\Debug\Interop.CKUtils.dll
+G:\Project1 v0.0056\Project1\obj\x86\Debug\Interop.MSXML2.dll
+G:\Project1 v0.0056\Project1\obj\x86\Debug\Interop.OICDAC.dll
+G:\Project1 v0.0056\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+G:\Project1 v0.0056\Project1\obj\x86\Debug\GTS.exe
+G:\Project1 v0.0056\Project1\obj\x86\Debug\GTS.pdb
+G:\Project1 v0.0056\Project1\bin\Debug\GTS.exe
+G:\Project1 v0.0056\Project1\bin\Debug\GTS.pdb
+G:\Project1 v0.0056\Project1\bin\Debug\Interop.ADODB.dll
+G:\Project1 v0.0056\Project1\bin\Debug\Interop.CKStyles.dll
+G:\Project1 v0.0056\Project1\bin\Debug\Interop.CKUtils.dll
+G:\Project1 v0.0056\Project1\bin\Debug\Interop.MSXML2.dll
+G:\Project1 v0.0056\Project1\bin\Debug\Interop.OICDAC.dll
+G:\Project1 v0.0056\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+G:\Project1 v0.0056\Project1\obj\x86\Debug\Project1.GTS.resources
+G:\Project1 v0.0056\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+G:\Project1 v0.0056\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+G:\Project1 v0.0056\Project1\obj\x86\Debug\Project1.Modul2.resources
+G:\Project1 v0.0056\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+G:\Project1 v0.0056\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+G:\Project1 v0.0056\Project1\obj\x86\Debug\Project1.Special.resources
+G:\Project1 v0.0056\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0058\Project1\bin\Debug\GTS.exe.config
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0058\Project1\obj\x86\Debug\Interop.ADODB.dll
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0058\Project1\obj\x86\Debug\Interop.CKStyles.dll
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0058\Project1\obj\x86\Debug\Interop.CKUtils.dll
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0058\Project1\obj\x86\Debug\Interop.MSXML2.dll
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0058\Project1\obj\x86\Debug\Interop.OICDAC.dll
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0058\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0058\Project1\obj\x86\Debug\GTS.exe
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0058\Project1\obj\x86\Debug\GTS.pdb
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0058\Project1\bin\Debug\GTS.exe
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0058\Project1\bin\Debug\GTS.pdb
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0058\Project1\bin\Debug\Interop.ADODB.dll
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0058\Project1\bin\Debug\Interop.CKStyles.dll
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0058\Project1\bin\Debug\Interop.CKUtils.dll
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0058\Project1\bin\Debug\Interop.MSXML2.dll
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0058\Project1\bin\Debug\Interop.OICDAC.dll
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0058\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0058\Project1\obj\x86\Debug\Project1.GTS.resources
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0058\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0058\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0058\Project1\obj\x86\Debug\Project1.Modul2.resources
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0058\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0058\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0058\Project1\obj\x86\Debug\Project1.Special.resources
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0058\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+C:\Users\oikASDU\Desktop\Project1 v0.0059\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikASDU\Desktop\Project1 v0.0059\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0059\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0059\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0059\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0059\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0059\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0059\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0059\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0059\Project1\bin\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0059\Project1\bin\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0059\Project1\bin\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0059\Project1\bin\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0059\Project1\bin\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0059\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0059\Project1\bin\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0059\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0059\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0059\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0059\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0059\Project1\obj\x86\Debug\Project1.Modul2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0059\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0059\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0059\Project1\obj\x86\Debug\Project1.Special.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0059\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0060\Project1\bin\Debug\GTS.exe.config
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0060\Project1\obj\x86\Debug\Interop.ADODB.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0060\Project1\obj\x86\Debug\Interop.MSXML2.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0060\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0060\Project1\obj\x86\Debug\GTS.exe
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0060\Project1\obj\x86\Debug\GTS.pdb
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0060\Project1\bin\Debug\GTS.exe
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0060\Project1\bin\Debug\GTS.pdb
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0060\Project1\bin\Debug\Interop.ADODB.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0060\Project1\bin\Debug\Interop.MSXML2.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0060\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0060\Project1\obj\x86\Debug\Project1.GTS.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0060\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0060\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0060\Project1\obj\x86\Debug\Project1.Modul2.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0060\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0060\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0060\Project1\obj\x86\Debug\Project1.Special.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0060\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0061\Project1\bin\Debug\GTS.exe.config
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0061\Project1\obj\x86\Debug\Interop.ADODB.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0061\Project1\obj\x86\Debug\Interop.MSXML2.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0061\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0061\Project1\obj\x86\Debug\GTS.exe
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0061\Project1\obj\x86\Debug\GTS.pdb
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0061\Project1\bin\Debug\GTS.exe
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0061\Project1\bin\Debug\GTS.pdb
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0061\Project1\bin\Debug\Interop.ADODB.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0061\Project1\bin\Debug\Interop.MSXML2.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0061\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0061\Project1\obj\x86\Debug\Project1.GTS.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0061\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0061\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0061\Project1\obj\x86\Debug\Project1.Modul2.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0061\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0061\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0061\Project1\obj\x86\Debug\Project1.Special.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0061\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0061\Project1\obj\x86\Debug\Project1.Sozd_Scenar.resources
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0062\Project1\bin\Debug\GTS.exe.config
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0062\Project1\obj\x86\Debug\Interop.ADODB.dll
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0062\Project1\obj\x86\Debug\Interop.CKStyles.dll
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0062\Project1\obj\x86\Debug\Interop.CKUtils.dll
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0062\Project1\obj\x86\Debug\Interop.MSXML2.dll
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0062\Project1\obj\x86\Debug\Interop.OICDAC.dll
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0062\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0062\Project1\obj\x86\Debug\GTS.exe
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0062\Project1\obj\x86\Debug\GTS.pdb
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0062\Project1\bin\Debug\GTS.exe
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0062\Project1\bin\Debug\GTS.pdb
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0062\Project1\bin\Debug\Interop.ADODB.dll
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0062\Project1\bin\Debug\Interop.CKStyles.dll
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0062\Project1\bin\Debug\Interop.CKUtils.dll
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0062\Project1\bin\Debug\Interop.MSXML2.dll
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0062\Project1\bin\Debug\Interop.OICDAC.dll
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0062\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0062\Project1\obj\x86\Debug\Project1.GTS.resources
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0062\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0062\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0062\Project1\obj\x86\Debug\Project1.Modul2.resources
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0062\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0062\Project1\obj\x86\Debug\Project1.Sozd_Scenar.resources
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0062\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0062\Project1\obj\x86\Debug\Project1.Special.resources
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.0062\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0062\Project1\bin\Debug\GTS.exe.config
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0062\Project1\obj\x86\Debug\Interop.ADODB.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0062\Project1\obj\x86\Debug\Interop.MSXML2.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0062\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0062\Project1\obj\x86\Debug\GTS.exe
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0062\Project1\obj\x86\Debug\GTS.pdb
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0062\Project1\bin\Debug\GTS.exe
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0062\Project1\bin\Debug\GTS.pdb
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0062\Project1\bin\Debug\Interop.ADODB.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0062\Project1\bin\Debug\Interop.MSXML2.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0062\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0062\Project1\obj\x86\Debug\Project1.GTS.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0062\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0062\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0062\Project1\obj\x86\Debug\Project1.Modul2.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0062\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0062\Project1\obj\x86\Debug\Project1.Sozd_Scenar.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0062\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0062\Project1\obj\x86\Debug\Project1.Special.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0062\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0062a\Project1\bin\Debug\GTS.exe.config
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0062a\Project1\obj\x86\Debug\Interop.ADODB.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0062a\Project1\obj\x86\Debug\Interop.MSXML2.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0062a\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0062a\Project1\obj\x86\Debug\GTS.exe
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0062a\Project1\obj\x86\Debug\GTS.pdb
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0062a\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0062a\Project1\obj\x86\Debug\Project1.GTS.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0062a\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0062a\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0062a\Project1\obj\x86\Debug\Project1.Modul2.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0062a\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0062a\Project1\obj\x86\Debug\Project1.Sozd_Scenar.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0062a\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0062a\Project1\obj\x86\Debug\Project1.Special.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0062a\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0062a\Project1\bin\Debug\GTS.exe
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0062a\Project1\bin\Debug\GTS.pdb
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0062a\Project1\bin\Debug\Interop.ADODB.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0062a\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0062a\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikASDU\Desktop\Project1 v0.0062a\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0062a\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0062a\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0062a\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0062a\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0062a\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0062a\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0062a\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0062a\Project1\bin\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0062a\Project1\bin\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0062a\Project1\bin\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0062a\Project1\bin\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0062a\Project1\bin\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0062a\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0062a\Project1\bin\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0062a\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0062a\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0062a\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0062a\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0062a\Project1\obj\x86\Debug\Project1.Modul2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0062a\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0062a\Project1\obj\x86\Debug\Project1.Sozd_Scenar.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0062a\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0062a\Project1\obj\x86\Debug\Project1.Special.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0062a\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0063(a)\Project1\bin\Debug\GTS.exe.config
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0063(a)\Project1\obj\x86\Debug\Interop.ADODB.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0063(a)\Project1\obj\x86\Debug\Interop.MSXML2.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0063(a)\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0063(a)\Project1\obj\x86\Debug\GTS.exe
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0063(a)\Project1\obj\x86\Debug\GTS.pdb
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0063(a)\Project1\bin\Debug\GTS.exe
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0063(a)\Project1\bin\Debug\GTS.pdb
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0063(a)\Project1\bin\Debug\Interop.ADODB.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0063(a)\Project1\bin\Debug\Interop.MSXML2.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0063(a)\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0063(a)\Project1\obj\x86\Debug\Project1.GTS.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0063(a)\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0063(a)\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0063(a)\Project1\obj\x86\Debug\Project1.Modul2.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0063(a)\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0063(a)\Project1\obj\x86\Debug\Project1.Sozd_Scenar.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0063(a)\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0063(a)\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+C:\Users\oikASDU\Desktop\Project1 v0.0063(a)\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikASDU\Desktop\Project1 v0.0063(a)\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0063(a)\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0063(a)\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0063(a)\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0063(a)\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0063(a)\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0063(a)\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0063(a)\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0064\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikASDU\Desktop\Project1 v0.0064\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0064\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0064\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0064\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0064\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0064\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0064\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0064\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0064\Project1\bin\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0064\Project1\bin\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0064\Project1\bin\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0064\Project1\bin\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0064\Project1\bin\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0064\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0064\Project1\bin\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0064\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0064\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0064\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0064\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0064\Project1\obj\x86\Debug\Project1.Modul2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0064\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0064\Project1\obj\x86\Debug\Project1.Sozd_Scenar.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0064\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0064\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+F:\Для учёбы\Диплом\Программа C#\Project1 v0.0064\Project1\bin\Debug\GTS.exe.config
+F:\Для учёбы\Диплом\Программа C#\Project1 v0.0064\Project1\obj\x86\Debug\Interop.ADODB.dll
+F:\Для учёбы\Диплом\Программа C#\Project1 v0.0064\Project1\obj\x86\Debug\Interop.MSXML2.dll
+F:\Для учёбы\Диплом\Программа C#\Project1 v0.0064\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+F:\Для учёбы\Диплом\Программа C#\Project1 v0.0064\Project1\obj\x86\Debug\GTS.exe
+F:\Для учёбы\Диплом\Программа C#\Project1 v0.0064\Project1\obj\x86\Debug\GTS.pdb
+F:\Для учёбы\Диплом\Программа C#\Project1 v0.0064\Project1\bin\Debug\GTS.exe
+F:\Для учёбы\Диплом\Программа C#\Project1 v0.0064\Project1\bin\Debug\GTS.pdb
+F:\Для учёбы\Диплом\Программа C#\Project1 v0.0064\Project1\bin\Debug\Interop.ADODB.dll
+F:\Для учёбы\Диплом\Программа C#\Project1 v0.0064\Project1\bin\Debug\Interop.MSXML2.dll
+F:\Для учёбы\Диплом\Программа C#\Project1 v0.0064\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+F:\Для учёбы\Диплом\Программа C#\Project1 v0.0064\Project1\obj\x86\Debug\Project1.GTS.resources
+F:\Для учёбы\Диплом\Программа C#\Project1 v0.0064\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+F:\Для учёбы\Диплом\Программа C#\Project1 v0.0064\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+F:\Для учёбы\Диплом\Программа C#\Project1 v0.0064\Project1\obj\x86\Debug\Project1.Modul2.resources
+F:\Для учёбы\Диплом\Программа C#\Project1 v0.0064\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+F:\Для учёбы\Диплом\Программа C#\Project1 v0.0064\Project1\obj\x86\Debug\Project1.Sozd_Scenar.resources
+F:\Для учёбы\Диплом\Программа C#\Project1 v0.0064\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+F:\Для учёбы\Диплом\Программа C#\Project1 v0.0064\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0065\Project1\bin\Debug\GTS.exe.config
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0065\Project1\obj\x86\Debug\Interop.ADODB.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0065\Project1\obj\x86\Debug\Interop.MSXML2.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0065\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0065\Project1\obj\x86\Debug\GTS.exe
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0065\Project1\obj\x86\Debug\GTS.pdb
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0065\Project1\bin\Debug\GTS.exe
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0065\Project1\bin\Debug\GTS.pdb
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0065\Project1\bin\Debug\Interop.ADODB.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0065\Project1\bin\Debug\Interop.MSXML2.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0065\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0065\Project1\obj\x86\Debug\Project1.GTS.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0065\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0065\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0065\Project1\obj\x86\Debug\Project1.Modul2.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0065\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0065\Project1\obj\x86\Debug\Project1.Sozd_Scenar.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0065\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0065\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0066\Project1\bin\Debug\GTS.exe.config
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0066\Project1\obj\x86\Debug\Interop.ADODB.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0066\Project1\obj\x86\Debug\Interop.MSXML2.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0066\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0066\Project1\obj\x86\Debug\GTS.exe
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0066\Project1\obj\x86\Debug\GTS.pdb
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0066\Project1\bin\Debug\GTS.exe
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0066\Project1\bin\Debug\GTS.pdb
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0066\Project1\bin\Debug\Interop.ADODB.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0066\Project1\bin\Debug\Interop.MSXML2.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0066\Project1\obj\x86\Debug\Project1.GTS.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0066\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0066\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0066\Project1\obj\x86\Debug\Project1.Modul2.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0066\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0066\Project1\obj\x86\Debug\Project1.Sozd_Scenar.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0066\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0066\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0066\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0066(а)\Project1\bin\Debug\GTS.exe.config
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0066(а)\Project1\obj\x86\Debug\Interop.ADODB.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0066(а)\Project1\obj\x86\Debug\Interop.MSXML2.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0066(а)\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0066(а)\Project1\obj\x86\Debug\GTS.exe
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0066(а)\Project1\obj\x86\Debug\GTS.pdb
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0066(а)\Project1\bin\Debug\GTS.exe
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0066(а)\Project1\bin\Debug\GTS.pdb
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0066(а)\Project1\bin\Debug\Interop.ADODB.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0066(а)\Project1\bin\Debug\Interop.MSXML2.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0066(а)\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0066(а)\Project1\obj\x86\Debug\Project1.GTS.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0066(а)\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0066(а)\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0066(а)\Project1\obj\x86\Debug\Project1.Modul2.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0066(а)\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0066(а)\Project1\obj\x86\Debug\Project1.Sozd_Scenar.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0066(а)\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0066(а)\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0067\Project1\bin\Debug\GTS.exe.config
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0067\Project1\obj\x86\Debug\Interop.ADODB.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0067\Project1\obj\x86\Debug\Interop.MSXML2.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0067\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0067\Project1\obj\x86\Debug\GTS.exe
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0067\Project1\obj\x86\Debug\GTS.pdb
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0067\Project1\bin\Debug\GTS.exe
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0067\Project1\bin\Debug\GTS.pdb
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0067\Project1\bin\Debug\Interop.ADODB.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0067\Project1\bin\Debug\Interop.MSXML2.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0067\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0067\Project1\obj\x86\Debug\Project1.GTS.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0067\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0067\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0067\Project1\obj\x86\Debug\Project1.Modul2.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0067\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0067\Project1\obj\x86\Debug\Project1.Sozd_Scenar.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0067\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0067\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0068\Project1\bin\Debug\GTS.exe.config
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0068\Project1\obj\x86\Debug\Interop.ADODB.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0068\Project1\obj\x86\Debug\Interop.MSXML2.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0068\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0068\Project1\obj\x86\Debug\GTS.exe
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0068\Project1\obj\x86\Debug\GTS.pdb
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0068\Project1\bin\Debug\GTS.exe
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0068\Project1\bin\Debug\GTS.pdb
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0068\Project1\bin\Debug\Interop.ADODB.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0068\Project1\bin\Debug\Interop.MSXML2.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0068\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0068\Project1\obj\x86\Debug\Project1.GTS.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0068\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0068\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0068\Project1\obj\x86\Debug\Project1.Modul2.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0068\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0068\Project1\obj\x86\Debug\Project1.Sozd_Scenar.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0068\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0068\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+F:\Для учёбы\Диплом\Программа C#\Project1 v0.0068\Project1\bin\Debug\GTS.exe.config
+F:\Для учёбы\Диплом\Программа C#\Project1 v0.0068\Project1\obj\x86\Debug\Interop.ADODB.dll
+F:\Для учёбы\Диплом\Программа C#\Project1 v0.0068\Project1\obj\x86\Debug\Interop.MSXML2.dll
+F:\Для учёбы\Диплом\Программа C#\Project1 v0.0068\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+F:\Для учёбы\Диплом\Программа C#\Project1 v0.0068\Project1\obj\x86\Debug\GTS.exe
+F:\Для учёбы\Диплом\Программа C#\Project1 v0.0068\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0069\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikASDU\Desktop\Project1 v0.0069\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0069\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0069\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0069\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0069\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0069\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0069\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0069\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0069\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0069\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0069\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0069\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0069\Project1\obj\x86\Debug\Project1.Modul2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0069\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0069\Project1\obj\x86\Debug\Project1.Sozd_Scenar.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0069\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\oikASDU\Desktop\Project1 v0.0069\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+C:\Users\oikASDU\Desktop\Project1 v0.0069\Project1\bin\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0069\Project1\bin\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.0069\Project1\bin\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0069\Project1\bin\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0069\Project1\bin\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0069\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0069\Project1\bin\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0069\Project1\obj\x86\Debug\Project1.Log.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069\Project1\bin\Debug\GTS.exe.config
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069\Project1\obj\x86\Debug\Interop.ADODB.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069\Project1\obj\x86\Debug\Interop.MSXML2.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069\Project1\obj\x86\Debug\GTS.exe
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\User\Desktop\Project1 v0.0069 (a)\Project1\bin\Debug\GTS.exe.config
+C:\Users\User\Desktop\Project1 v0.0069 (a)\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\User\Desktop\Project1 v0.0069 (a)\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\User\Desktop\Project1 v0.0069 (a)\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\Project1 v0.0069 (a)\Project1\obj\x86\Debug\GTS.exe
+C:\Users\User\Desktop\Project1 v0.0069 (a)\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\User\Desktop\Project1 v0.0069 (a)\Project1\bin\Debug\GTS.exe
+C:\Users\User\Desktop\Project1 v0.0069 (a)\Project1\bin\Debug\GTS.pdb
+C:\Users\User\Desktop\Project1 v0.0069 (a)\Project1\bin\Debug\Interop.ADODB.dll
+C:\Users\User\Desktop\Project1 v0.0069 (a)\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\User\Desktop\Project1 v0.0069 (a)\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Project1 v0.0069 (a)\Project1\obj\x86\Debug\Project1.About.resources
+C:\Users\User\Desktop\Project1 v0.0069 (a)\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\User\Desktop\Project1 v0.0069 (a)\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\User\Desktop\Project1 v0.0069 (a)\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+C:\Users\User\Desktop\Project1 v0.0069 (a)\Project1\obj\x86\Debug\Project1.Log.resources
+C:\Users\User\Desktop\Project1 v0.0069 (a)\Project1\obj\x86\Debug\Project1.Modul2.resources
+C:\Users\User\Desktop\Project1 v0.0069 (a)\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+C:\Users\User\Desktop\Project1 v0.0069 (a)\Project1\obj\x86\Debug\Project1.Sozd_Scenar.resources
+C:\Users\User\Desktop\Project1 v0.0069 (a)\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\User\Desktop\Project1 v0.0069 (a)\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Project1 v0.0069 (a)\Project1\obj\x86\Debug\Project1.SettingsMy.resources
+C:\Users\User\Desktop\Project1 v0.0069 (b)\Project1\bin\Debug\GTS.exe.config
+C:\Users\User\Desktop\Project1 v0.0069 (b)\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\User\Desktop\Project1 v0.0069 (b)\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\User\Desktop\Project1 v0.0069 (b)\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\Project1 v0.0069 (b)\Project1\obj\x86\Debug\GTS.exe
+C:\Users\User\Desktop\Project1 v0.0069 (b)\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\User\Desktop\Project1 v0.0069 (b)\Project1\bin\Debug\GTS.exe
+C:\Users\User\Desktop\Project1 v0.0069 (b)\Project1\bin\Debug\GTS.pdb
+C:\Users\User\Desktop\Project1 v0.0069 (b)\Project1\bin\Debug\Interop.ADODB.dll
+C:\Users\User\Desktop\Project1 v0.0069 (b)\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\User\Desktop\Project1 v0.0069 (b)\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Project1 v0.0069 (b)\Project1\obj\x86\Debug\Project1.About.resources
+C:\Users\User\Desktop\Project1 v0.0069 (b)\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\User\Desktop\Project1 v0.0069 (b)\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\User\Desktop\Project1 v0.0069 (b)\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+C:\Users\User\Desktop\Project1 v0.0069 (b)\Project1\obj\x86\Debug\Project1.Log.resources
+C:\Users\User\Desktop\Project1 v0.0069 (b)\Project1\obj\x86\Debug\Project1.Modul2.resources
+C:\Users\User\Desktop\Project1 v0.0069 (b)\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+C:\Users\User\Desktop\Project1 v0.0069 (b)\Project1\obj\x86\Debug\Project1.SettingsMy.resources
+C:\Users\User\Desktop\Project1 v0.0069 (b)\Project1\obj\x86\Debug\Project1.Sozd_Scenar.resources
+C:\Users\User\Desktop\Project1 v0.0069 (b)\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\User\Desktop\Project1 v0.0069 (b)\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (b)\Project1\bin\Debug\GTS.exe.config
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (b)\Project1\obj\x86\Debug\Interop.ADODB.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (b)\Project1\obj\x86\Debug\Interop.MSXML2.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (b)\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (b)\Project1\obj\x86\Debug\GTS.exe
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (b)\Project1\obj\x86\Debug\GTS.pdb
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (с)\Project1\bin\Debug\GTS.exe.config
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (с)\Project1\obj\x86\Debug\Interop.ADODB.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (с)\Project1\obj\x86\Debug\Interop.MSXML2.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (с)\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (с)\Project1\obj\x86\Debug\GTS.exe
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (с)\Project1\obj\x86\Debug\GTS.pdb
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (с)\Project1\bin\Debug\GTS.exe
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (с)\Project1\bin\Debug\GTS.pdb
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (с)\Project1\bin\Debug\Interop.ADODB.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (с)\Project1\bin\Debug\Interop.MSXML2.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (с)\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (с)\Project1\obj\x86\Debug\Project1.About.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (с)\Project1\obj\x86\Debug\Project1.GTS.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (с)\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (с)\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (с)\Project1\obj\x86\Debug\Project1.Log.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (с)\Project1\obj\x86\Debug\Project1.Modul2.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (с)\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (с)\Project1\obj\x86\Debug\Project1.SettingsMy.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (с)\Project1\obj\x86\Debug\Project1.Sozd_Scenar.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (с)\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (с)\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (d)\Project1\bin\Debug\GTS.exe.config
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (d)\Project1\obj\x86\Debug\Interop.ADODB.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (d)\Project1\obj\x86\Debug\Interop.MSXML2.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (d)\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (d)\Project1\obj\x86\Debug\GTS.exe
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (d)\Project1\obj\x86\Debug\GTS.pdb
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (d)\Project1\bin\Debug\GTS.exe
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (d)\Project1\bin\Debug\GTS.pdb
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (d)\Project1\bin\Debug\Interop.ADODB.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (d)\Project1\bin\Debug\Interop.MSXML2.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (d)\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (d)\Project1\obj\x86\Debug\Project1.About.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (d)\Project1\obj\x86\Debug\Project1.GTS.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (d)\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (d)\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (d)\Project1\obj\x86\Debug\Project1.Log.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (d)\Project1\obj\x86\Debug\Project1.Modul2.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (d)\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (d)\Project1\obj\x86\Debug\Project1.SettingsMy.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (d)\Project1\obj\x86\Debug\Project1.Sozd_Scenar.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (d)\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (d)\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (e)\Project1\bin\Debug\GTS.exe.config
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (e)\Project1\obj\x86\Debug\Interop.ADODB.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (e)\Project1\obj\x86\Debug\Interop.MSXML2.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (e)\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (e)\Project1\obj\x86\Debug\GTS.exe
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (e)\Project1\obj\x86\Debug\GTS.pdb
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (e)\Project1\bin\Debug\GTS.exe
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (e)\Project1\bin\Debug\GTS.pdb
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (e)\Project1\bin\Debug\Interop.ADODB.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (e)\Project1\bin\Debug\Interop.MSXML2.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (e)\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (e)\Project1\obj\x86\Debug\Project1.About.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (e)\Project1\obj\x86\Debug\Project1.GTS.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (e)\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (e)\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (e)\Project1\obj\x86\Debug\Project1.Log.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (e)\Project1\obj\x86\Debug\Project1.Modul2.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (e)\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (e)\Project1\obj\x86\Debug\Project1.SettingsMy.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (e)\Project1\obj\x86\Debug\Project1.Sozd_Scenar.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (e)\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (e)\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (f)\Project1\bin\Debug\GTS.exe.config
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (f)\Project1\obj\x86\Debug\Interop.ADODB.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (f)\Project1\obj\x86\Debug\Interop.MSXML2.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (f)\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (f)\Project1\obj\x86\Debug\GTS.exe
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (f)\Project1\obj\x86\Debug\GTS.pdb
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (f)\Project1\bin\Debug\GTS.exe
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (f)\Project1\bin\Debug\GTS.pdb
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (f)\Project1\bin\Debug\Interop.ADODB.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (f)\Project1\bin\Debug\Interop.MSXML2.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (f)\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (f)\Project1\obj\x86\Debug\Project1.About.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (f)\Project1\obj\x86\Debug\Project1.GTS.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (f)\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (f)\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (f)\Project1\obj\x86\Debug\Project1.Log.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (f)\Project1\obj\x86\Debug\Project1.Modul2.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (f)\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (f)\Project1\obj\x86\Debug\Project1.SettingsMy.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (f)\Project1\obj\x86\Debug\Project1.Sozd_Scenar.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (f)\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (f)\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (g)\Project1\bin\Debug\GTS.exe.config
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (g)\Project1\obj\x86\Debug\Interop.ADODB.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (g)\Project1\obj\x86\Debug\Interop.MSXML2.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (g)\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (g)\Project1\obj\x86\Debug\GTS.exe
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (g)\Project1\obj\x86\Debug\GTS.pdb
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (g)\Project1\bin\Debug\GTS.exe
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (g)\Project1\bin\Debug\GTS.pdb
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (g)\Project1\bin\Debug\Interop.ADODB.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (g)\Project1\bin\Debug\Interop.MSXML2.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (g)\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (g)\Project1\obj\x86\Debug\Project1.About.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (g)\Project1\obj\x86\Debug\Project1.GTS.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (g)\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (g)\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (g)\Project1\obj\x86\Debug\Project1.Log.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (g)\Project1\obj\x86\Debug\Project1.Modul2.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (g)\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (g)\Project1\obj\x86\Debug\Project1.SettingsMy.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (g)\Project1\obj\x86\Debug\Project1.Sozd_Scenar.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (g)\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.0069 (g)\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Project1 v0.0069 (h)\Project1\bin\Debug\GTS.exe.config
+C:\Users\User\Desktop\Project1 v0.0069 (h)\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\User\Desktop\Project1 v0.0069 (h)\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\User\Desktop\Project1 v0.0069 (h)\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\Project1 v0.0069 (h)\Project1\obj\x86\Debug\GTS.exe
+C:\Users\User\Desktop\Project1 v0.0069 (h)\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\User\Desktop\Project1 v0.0069 (h)\Project1\bin\Debug\GTS.exe
+C:\Users\User\Desktop\Project1 v0.0069 (h)\Project1\bin\Debug\GTS.pdb
+C:\Users\User\Desktop\Project1 v0.0069 (h)\Project1\bin\Debug\Interop.ADODB.dll
+C:\Users\User\Desktop\Project1 v0.0069 (h)\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\User\Desktop\Project1 v0.0069 (h)\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Project1 v0.0069 (h)\Project1\obj\x86\Debug\Project1.About.resources
+C:\Users\User\Desktop\Project1 v0.0069 (h)\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\User\Desktop\Project1 v0.0069 (h)\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\User\Desktop\Project1 v0.0069 (h)\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+C:\Users\User\Desktop\Project1 v0.0069 (h)\Project1\obj\x86\Debug\Project1.Log.resources
+C:\Users\User\Desktop\Project1 v0.0069 (h)\Project1\obj\x86\Debug\Project1.Modul2.resources
+C:\Users\User\Desktop\Project1 v0.0069 (h)\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+C:\Users\User\Desktop\Project1 v0.0069 (h)\Project1\obj\x86\Debug\Project1.SettingsMy.resources
+C:\Users\User\Desktop\Project1 v0.0069 (h)\Project1\obj\x86\Debug\Project1.Sozd_Scenar.resources
+C:\Users\User\Desktop\Project1 v0.0069 (h)\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\User\Desktop\Project1 v0.0069 (h)\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+C:\Users\oikASDU\Desktop\Project1 v0.0069 (h)\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikASDU\Desktop\Project1 v0.0069 (h)\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0069 (h)\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0069 (h)\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0069 (h)\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0069 (h)\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.0069 (h)\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.0069 (h)\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.0069 (h)\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.1003(0.0069 (h))\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikASDU\Desktop\Project1 v0.1003(0.0069 (h))\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.1003(0.0069 (h))\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.1003(0.0069 (h))\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.1003(0.0069 (h))\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.1003(0.0069 (h))\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.1003(0.0069 (h))\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.1003(0.0069 (h))\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.1003(0.0069 (h))\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.1003(0.0069 (h))\Project1\bin\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.1003(0.0069 (h))\Project1\bin\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.1003(0.0069 (h))\Project1\bin\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.1003(0.0069 (h))\Project1\bin\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.1003(0.0069 (h))\Project1\bin\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.1003(0.0069 (h))\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.1003(0.0069 (h))\Project1\bin\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.1003(0.0069 (h))\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.1003(0.0069 (h))\Project1\obj\x86\Debug\Project1.About.resources
+C:\Users\oikASDU\Desktop\Project1 v0.1003(0.0069 (h))\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikASDU\Desktop\Project1 v0.1003(0.0069 (h))\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\oikASDU\Desktop\Project1 v0.1003(0.0069 (h))\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+C:\Users\oikASDU\Desktop\Project1 v0.1003(0.0069 (h))\Project1\obj\x86\Debug\Project1.Log.resources
+C:\Users\oikASDU\Desktop\Project1 v0.1003(0.0069 (h))\Project1\obj\x86\Debug\Project1.Modul2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.1003(0.0069 (h))\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+C:\Users\oikASDU\Desktop\Project1 v0.1003(0.0069 (h))\Project1\obj\x86\Debug\Project1.SettingsMy.resources
+C:\Users\oikASDU\Desktop\Project1 v0.1003(0.0069 (h))\Project1\obj\x86\Debug\Project1.Sozd_Scenar.resources
+C:\Users\oikASDU\Desktop\Project1 v0.1003(0.0069 (h))\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\oikASDU\Desktop\Project1 v0.1003(0.0069 (h))\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+C:\Users\oikASDU\Desktop\Project1 v0.1004\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikASDU\Desktop\Project1 v0.1004\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.1004\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.1004\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.1004\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.1004\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.1004\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.1004\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.1004\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.1004\Project1\bin\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.1004\Project1\bin\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.1004\Project1\bin\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.1004\Project1\bin\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.1004\Project1\bin\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.1004\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.1004\Project1\bin\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.1004\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.1004\Project1\obj\x86\Debug\Project1.About.resources
+C:\Users\oikASDU\Desktop\Project1 v0.1004\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikASDU\Desktop\Project1 v0.1004\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\oikASDU\Desktop\Project1 v0.1004\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+C:\Users\oikASDU\Desktop\Project1 v0.1004\Project1\obj\x86\Debug\Project1.Log.resources
+C:\Users\oikASDU\Desktop\Project1 v0.1004\Project1\obj\x86\Debug\Project1.Modul2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.1004\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+C:\Users\oikASDU\Desktop\Project1 v0.1004\Project1\obj\x86\Debug\Project1.SettingsMy.resources
+C:\Users\oikASDU\Desktop\Project1 v0.1004\Project1\obj\x86\Debug\Project1.Sozd_Scenar.resources
+C:\Users\oikASDU\Desktop\Project1 v0.1004\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\oikASDU\Desktop\Project1 v0.1004\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.1005\Project1\bin\Debug\GTS.exe.config
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.1005\Project1\obj\x86\Debug\Interop.ADODB.dll
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.1005\Project1\obj\x86\Debug\Interop.MSXML2.dll
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.1005\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.1005\Project1\obj\x86\Debug\GTS.exe
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.1005\Project1\obj\x86\Debug\GTS.pdb
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.1005\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.1005\Project1\obj\x86\Debug\Project1.About.resources
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.1005\Project1\obj\x86\Debug\Project1.GTS.resources
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.1005\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.1005\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.1005\Project1\obj\x86\Debug\Project1.Log.resources
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.1005\Project1\obj\x86\Debug\Project1.Modul2.resources
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.1005\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.1005\Project1\obj\x86\Debug\Project1.SettingsMy.resources
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.1005\Project1\obj\x86\Debug\Project1.Sozd_Scenar.resources
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.1005\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.1005\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.1006\Project1\bin\Debug\GTS.exe.config
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.1006\Project1\obj\x86\Debug\Interop.ADODB.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.1006\Project1\obj\x86\Debug\Interop.MSXML2.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.1006\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.1006\Project1\obj\x86\Debug\GTS.exe
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.1006\Project1\obj\x86\Debug\GTS.pdb
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.1006\Project1\bin\Debug\GTS.exe.config
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.1006\Project1\obj\x86\Debug\Interop.ADODB.dll
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.1006\Project1\obj\x86\Debug\Interop.MSXML2.dll
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.1006\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.1006\Project1\obj\x86\Debug\GTS.exe
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.1006\Project1\obj\x86\Debug\GTS.pdb
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.1006\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.1006\Project1\obj\x86\Debug\Project1.About.resources
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.1006\Project1\obj\x86\Debug\Project1.GTS.resources
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.1006\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.1006\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.1006\Project1\obj\x86\Debug\Project1.Log.resources
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.1006\Project1\obj\x86\Debug\Project1.Modul2.resources
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.1006\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.1006\Project1\obj\x86\Debug\Project1.SettingsMy.resources
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.1006\Project1\obj\x86\Debug\Project1.Sozd_Scenar.resources
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.1006\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+G:\Для учёбы\Диплом\Программа C#\Project1 v0.1006\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+C:\Users\oikASDU\Desktop\Project1 v0.1007\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikASDU\Desktop\Project1 v0.1007\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.1007\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.1007\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.1007\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.1007\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.1007\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.1007\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.1007\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.1007\Project1\bin\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.1007\Project1\bin\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.1007\Project1\bin\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.1007\Project1\bin\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.1007\Project1\bin\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.1007\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.1007\Project1\bin\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.1007\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.1007\Project1\obj\x86\Debug\Project1.About.resources
+C:\Users\oikASDU\Desktop\Project1 v0.1007\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikASDU\Desktop\Project1 v0.1007\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\oikASDU\Desktop\Project1 v0.1007\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+C:\Users\oikASDU\Desktop\Project1 v0.1007\Project1\obj\x86\Debug\Project1.Log.resources
+C:\Users\oikASDU\Desktop\Project1 v0.1007\Project1\obj\x86\Debug\Project1.Modul2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.1007\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+C:\Users\oikASDU\Desktop\Project1 v0.1007\Project1\obj\x86\Debug\Project1.SettingsMy.resources
+C:\Users\oikASDU\Desktop\Project1 v0.1007\Project1\obj\x86\Debug\Project1.Sozd_Scenar.resources
+C:\Users\oikASDU\Desktop\Project1 v0.1007\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\oikASDU\Desktop\Project1 v0.1007\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.1007\Project1\bin\Debug\GTS.exe.config
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.1007\Project1\obj\x86\Debug\Interop.ADODB.dll
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.1007\Project1\obj\x86\Debug\Interop.CKStyles.dll
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.1007\Project1\obj\x86\Debug\Interop.CKUtils.dll
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.1007\Project1\obj\x86\Debug\Interop.MSXML2.dll
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.1007\Project1\obj\x86\Debug\Interop.OICDAC.dll
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.1007\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.1007\Project1\obj\x86\Debug\GTS.exe
+H:\Для учёбы\Диплом\Программа C#\Project1 v0.1007\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.1008\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikASDU\Desktop\Project1 v0.1008\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.1008\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.1008\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.1008\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.1008\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.1008\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.1008\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.1008\Project1\obj\x86\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.1008\Project1\bin\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.1008\Project1\bin\Debug\GTS.pdb
+C:\Users\oikASDU\Desktop\Project1 v0.1008\Project1\bin\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.1008\Project1\bin\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.1008\Project1\bin\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.1008\Project1\bin\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.1008\Project1\bin\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.1008\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.1008\Project1\obj\x86\Debug\Project1.About.resources
+C:\Users\oikASDU\Desktop\Project1 v0.1008\Project1\obj\x86\Debug\Project1.GTS.resources
+C:\Users\oikASDU\Desktop\Project1 v0.1008\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+C:\Users\oikASDU\Desktop\Project1 v0.1008\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+C:\Users\oikASDU\Desktop\Project1 v0.1008\Project1\obj\x86\Debug\Project1.Log.resources
+C:\Users\oikASDU\Desktop\Project1 v0.1008\Project1\obj\x86\Debug\Project1.Modul2.resources
+C:\Users\oikASDU\Desktop\Project1 v0.1008\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+C:\Users\oikASDU\Desktop\Project1 v0.1008\Project1\obj\x86\Debug\Project1.SettingsMy.resources
+C:\Users\oikASDU\Desktop\Project1 v0.1008\Project1\obj\x86\Debug\Project1.Sozd_Scenar.resources
+C:\Users\oikASDU\Desktop\Project1 v0.1008\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+C:\Users\oikASDU\Desktop\Project1 v0.1008\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+C:\Users\oikASDU\Desktop\Project1 v0.1008 - копия\Project1\bin\Debug\GTS.exe.config
+C:\Users\oikASDU\Desktop\Project1 v0.1008 - копия\Project1\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\oikASDU\Desktop\Project1 v0.1008 - копия\Project1\obj\x86\Debug\Interop.CKStyles.dll
+C:\Users\oikASDU\Desktop\Project1 v0.1008 - копия\Project1\obj\x86\Debug\Interop.CKUtils.dll
+C:\Users\oikASDU\Desktop\Project1 v0.1008 - копия\Project1\obj\x86\Debug\Interop.MSXML2.dll
+C:\Users\oikASDU\Desktop\Project1 v0.1008 - копия\Project1\obj\x86\Debug\Interop.OICDAC.dll
+C:\Users\oikASDU\Desktop\Project1 v0.1008 - копия\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+C:\Users\oikASDU\Desktop\Project1 v0.1008 - копия\Project1\obj\x86\Debug\GTS.exe
+C:\Users\oikASDU\Desktop\Project1 v0.1008 - копия\Project1\obj\x86\Debug\GTS.pdb
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.1009\Project1\bin\Debug\GTS.exe.config
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.1009\Project1\obj\x86\Debug\Interop.ADODB.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.1009\Project1\obj\x86\Debug\Interop.MSXML2.dll
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.1009\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.1009\Project1\obj\x86\Debug\GTS.exe
+D:\Для учёбы\Диплом\Программа C#\Project1 v0.1009\Project1\obj\x86\Debug\GTS.pdb
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Project1 v0.1009\Project1\bin\Debug\GTS.exe.config
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Project1 v0.1009\Project1\obj\x86\Debug\Interop.ADODB.dll
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Project1 v0.1009\Project1\obj\x86\Debug\Interop.MSXML2.dll
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Project1 v0.1009\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Project1 v0.1009\Project1\obj\x86\Debug\GTS.exe
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Project1 v0.1009\Project1\obj\x86\Debug\GTS.pdb
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Project1 v0.1009\Project1\bin\Debug\GTS.exe
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Project1 v0.1009\Project1\bin\Debug\GTS.pdb
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Project1 v0.1009\Project1\bin\Debug\Interop.ADODB.dll
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Project1 v0.1009\Project1\bin\Debug\Interop.MSXML2.dll
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Project1 v0.1009\Project1\bin\Debug\stdole.dll
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Project1 v0.1009\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Project1 v0.1009\Project1\obj\x86\Debug\Project1.About.resources
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Project1 v0.1009\Project1\obj\x86\Debug\Project1.GTS.resources
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Project1 v0.1009\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Project1 v0.1009\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Project1 v0.1009\Project1\obj\x86\Debug\Project1.Log.resources
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Project1 v0.1009\Project1\obj\x86\Debug\Project1.Modul2.resources
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Project1 v0.1009\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Project1 v0.1009\Project1\obj\x86\Debug\Project1.SettingsMy.resources
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Project1 v0.1009\Project1\obj\x86\Debug\Project1.Sozd_Scenar.resources
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Project1 v0.1009\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Project1 v0.1009\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Project1 v0.1010 (без мусора)\Project1\bin\Debug\GTS.exe.config
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Project1 v0.1010 (без мусора)\Project1\obj\x86\Debug\Interop.ADODB.dll
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Project1 v0.1010 (без мусора)\Project1\obj\x86\Debug\Interop.MSXML2.dll
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Project1 v0.1010 (без мусора)\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Project1 v0.1010 (без мусора)\Project1\obj\x86\Debug\GTS.exe
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Project1 v0.1010 (без мусора)\Project1\obj\x86\Debug\GTS.pdb
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Project1 v0.1010 (без мусора)\Project1\bin\Debug\GTS.exe
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Project1 v0.1010 (без мусора)\Project1\bin\Debug\GTS.pdb
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Project1 v0.1010 (без мусора)\Project1\bin\Debug\Interop.ADODB.dll
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Project1 v0.1010 (без мусора)\Project1\bin\Debug\Interop.MSXML2.dll
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Project1 v0.1010 (без мусора)\Project1\bin\Debug\stdole.dll
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Project1 v0.1010 (без мусора)\Project1\obj\x86\Debug\Project1.About.resources
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Project1 v0.1010 (без мусора)\Project1\obj\x86\Debug\Project1.GTS.resources
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Project1 v0.1010 (без мусора)\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Project1 v0.1010 (без мусора)\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Project1 v0.1010 (без мусора)\Project1\obj\x86\Debug\Project1.Log.resources
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Project1 v0.1010 (без мусора)\Project1\obj\x86\Debug\Project1.Modul2.resources
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Project1 v0.1010 (без мусора)\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Project1 v0.1010 (без мусора)\Project1\obj\x86\Debug\Project1.SettingsMy.resources
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Project1 v0.1010 (без мусора)\Project1\obj\x86\Debug\Project1.Sozd_Scenar.resources
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Project1 v0.1010 (без мусора)\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Project1 v0.1010 (без мусора)\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Generator of test signals\Project1\bin\Debug\GTS.exe.config
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Generator of test signals\Project1\obj\x86\Debug\Interop.ADODB.dll
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Generator of test signals\Project1\obj\x86\Debug\Interop.MSXML2.dll
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Generator of test signals\Project1\obj\x86\Debug\GTS.csproj.ResolveComReference.cache
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Generator of test signals\Project1\obj\x86\Debug\GTS.exe
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Generator of test signals\Project1\obj\x86\Debug\GTS.pdb
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Generator of test signals\Project1\bin\Debug\GTS.exe
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Generator of test signals\Project1\bin\Debug\GTS.pdb
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Generator of test signals\Project1\bin\Debug\Interop.ADODB.dll
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Generator of test signals\Project1\bin\Debug\Interop.MSXML2.dll
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Generator of test signals\Project1\bin\Debug\stdole.dll
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Generator of test signals\Project1\obj\x86\Debug\GTS.csprojResolveAssemblyReference.cache
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Generator of test signals\Project1\obj\x86\Debug\Project1.About.resources
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Generator of test signals\Project1\obj\x86\Debug\Project1.GTS.resources
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Generator of test signals\Project1\obj\x86\Debug\Project1.KDD_Option.resources
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Generator of test signals\Project1\obj\x86\Debug\Project1.Kod_dostovernosti.resources
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Generator of test signals\Project1\obj\x86\Debug\Project1.Log.resources
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Generator of test signals\Project1\obj\x86\Debug\Project1.Modul2.resources
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Generator of test signals\Project1\obj\x86\Debug\Project1.Properties.Resources.resources
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Generator of test signals\Project1\obj\x86\Debug\Project1.SettingsMy.resources
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Generator of test signals\Project1\obj\x86\Debug\Project1.Sozd_Scenar.resources
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Generator of test signals\Project1\obj\x86\Debug\Project1.Sozd_signala.resources
+D:\Для учёбы\Магистратура\Диплом\Программа C#\Generator of test signals\Project1\obj\x86\Debug\GTS.csproj.GenerateResource.Cache

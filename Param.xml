@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parametrs>
+  <signal name="One" type="ТИ" id="1" value="11" code="0x1">
+    <peredacha kind="Циклическая" prop="2" />
+  </signal>
+  <signal name="Two" type="ТC" id="2" value="1" code="0x10">
+    <peredacha kind="По изменению" prop="0.1" />
+  </signal>
+  <signal name="Three" type="ТC" id="3" value="1" code="0x100">
+    <peredacha kind="Циклическая" prop="3" />
+  </signal>
+  <signal name="Four" type="ТИ" id="4" value="4.5" code="0x40">
+    <peredacha kind="По изменению" prop="0.01" />
+  </signal>
+  <signal name="TI_234" type="ТС" id="234" value="1" code="0x800">
+    <peredacha kind="Циклическая" prop="4" />
+  </signal>
+</parametrs>

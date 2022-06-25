@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parametrs>
+  <signal name="dfgdfg" type="ТИ" id="44" value="44" code="0x20">
+    <peredacha kind="Циклическая" prop="4" />
+  </signal>
+</parametrs>
