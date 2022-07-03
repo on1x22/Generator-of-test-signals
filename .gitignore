@@ -226,5 +226,5 @@ project.lock.json
 
 /Param1.txt
 
-Данные/
-_ReSharper.Project1/
+Данные/*
+_ReSharper.Project1/*
